@@ -1,0 +1,6163 @@
+{
+  "clans": {
+    "VIP777": {
+      "id": "VIP777",
+      "name": "VIP Ponta Dm",
+      "owner": "6283857182374@s.whatsapp.net",
+      "members": [
+        "6283857182374@s.whatsapp.net",
+        "6289507732991@s.whatsapp.net",
+        "6283113131642@s.whatsapp.net",
+        "62882006341961@s.whatsapp.net",
+        "6283137181875@s.whatsapp.net",
+        "62882003808939@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 1072,
+      "level": 16,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Kanaya Kayla melakukan nambang di Hutan",
+          "timestamp": 1742494157277
+        },
+        {
+          "message": "Ponta Senpai menyelesaikan dungeon.",
+          "timestamp": 1743607073223
+        },
+        {
+          "message": "Ponta Senpai menyelesaikan dungeon.",
+          "timestamp": 1745505868647
+        },
+        {
+          "message": "Ponta Senpai menambah 10 skeleton ke camp.",
+          "timestamp": 1745593601692
+        },
+        {
+          "message": "Ponta Senpai menambah 10 golem_es ke camp.",
+          "timestamp": 1745593656891
+        },
+        {
+          "message": "Ponta Senpai meng-upgrade camp clan.",
+          "timestamp": 1745593696599
+        },
+        {
+          "message": "Ponta Senpai melakukan berburu Serigala",
+          "timestamp": 1745593717225
+        },
+        {
+          "message": "Ponta Senpai menambah 20 barbar ke camp.",
+          "timestamp": 1745595368457
+        },
+        {
+          "message": "Ponta Senpai meng-upgrade golem_es ke level 2.",
+          "timestamp": 1745595430660
+        },
+        {
+          "message": "Ponta Senpai mengedit skeleton menjadi 5 pasukan.",
+          "timestamp": 1745595492597
+        },
+        {
+          "message": "Ponta Senpai menambah 5 barbar ke camp.",
+          "timestamp": 1745595589415
+        },
+        {
+          "message": "Alicia minta join clan (pending approval).",
+          "timestamp": 1745602273811
+        },
+        {
+          "message": "Ponta Senpai mengedit barbar menjadi 0 pasukan.",
+          "timestamp": 1745630123536
+        },
+        {
+          "message": "Ponta Senpai mengedit skeleton menjadi 0 pasukan.",
+          "timestamp": 1745630224167
+        },
+        {
+          "message": "Ponta Senpai menambah 30 barbar ke camp.",
+          "timestamp": 1745630259657
+        },
+        {
+          "message": "Ponta Senpai meng-upgrade attack clan.",
+          "timestamp": 1745631465826
+        },
+        {
+          "message": "Ponta Senpai meng-upgrade attack clan.",
+          "timestamp": 1745631502119
+        },
+        {
+          "message": "Ponta Senpai menghapus 30 barbar, mengurangi 90 aegis dan 60 basics.",
+          "timestamp": 1745631564223
+        },
+        {
+          "message": "Ponta Senpai menambah 30 barbar ke camp, menambah 90 aegis dan 60 basics.",
+          "timestamp": 1745631595473
+        },
+        {
+          "message": "Ponta Senpai meng-upgrade camp clan.",
+          "timestamp": 1745631621607
+        },
+        {
+          "message": "Ponta Senpai menambah 20 skeleton ke camp, menambah 40 aegis dan 20 basics.",
+          "timestamp": 1745631639863
+        },
+        {
+          "message": "Ponta Senpai menghapus 30 barbar, mengurangi 90 aegis dan 60 basics.",
+          "timestamp": 1745632304546
+        },
+        {
+          "message": "Ponta Senpai menghapus 20 skeleton, mengurangi 40 aegis dan 20 basics.",
+          "timestamp": 1745632308736
+        },
+        {
+          "message": "Ponta Senpai melakukan berburu Serigala",
+          "timestamp": 1745632395673
+        },
+        {
+          "message": "Ponta Senpai menambah 3 barbar ke camp, menambah 9 aegis dan 6 basics.",
+          "timestamp": 1745632431989
+        },
+        {
+          "message": "Ponta Senpai menambah 2 skeleton ke camp, menambah 4 aegis dan 2 basics.",
+          "timestamp": 1745632439996
+        },
+        {
+          "message": "Ponta Senpai menambah 2 barbar ke camp, menambah 6 aegis dan 4 basics.",
+          "timestamp": 1745632523789
+        },
+        {
+          "message": "Ponta Senpai menghapus 5 barbar, mengurangi 15 aegis dan 10 basics.",
+          "timestamp": 1745632938631
+        },
+        {
+          "message": "Ponta Senpai menghapus 2 skeleton, mengurangi 4 aegis dan 2 basics.",
+          "timestamp": 1745632945342
+        },
+        {
+          "message": "Ponta Senpai menambah 40 barbar ke camp, menambah 120 aegis dan 80 basics.",
+          "timestamp": 1745632960184
+        },
+        {
+          "message": "Ponta Senpai menghapus 40 barbar, mengurangi 120 aegis dan 80 basics.",
+          "timestamp": 1745633232448
+        },
+        {
+          "message": "Ponta Senpai menambah 30 barbar ke camp, menambah 90 aegis dan 60 basics.",
+          "timestamp": 1745633254624
+        },
+        {
+          "message": "Ponta Senpai menghapus 30 barbar, mengurangi 90 aegis dan 60 basics.",
+          "timestamp": 1745633318627
+        },
+        {
+          "message": "Ponta Senpai menghapus 10 golem_es, mengurangi 200 aegis dan 200 basics.",
+          "timestamp": 1745633323076
+        },
+        {
+          "message": "Ponta Senpai melakukan nambang di Hutan",
+          "timestamp": 1745633354062
+        },
+        {
+          "message": "Ponta Senpai melakukan jelajah.",
+          "timestamp": 1745633356583
+        },
+        {
+          "message": "Ponta Senpai menambah 60 barbar ke camp, menambah NaN aegis dan 120 basics.",
+          "timestamp": 1745843660139
+        },
+        {
+          "message": "Ponta Senpai menghapus 60 barbar, mengurangi 180 aegis dan 120 basics.",
+          "timestamp": 1745843703070
+        },
+        {
+          "message": "Ponta Senpai melakukan nebang.",
+          "timestamp": 1748228292362
+        },
+        {
+          "message": "Ponta Senpai beli 40 wood seharga Cp. 200",
+          "timestamp": 1748228311524
+        },
+        {
+          "message": "Ponta Senpai beli 40 rock seharga Cp. 200",
+          "timestamp": 1748228327857
+        },
+        {
+          "message": "Ponta Senpai menambah 20 barbar ke camp, menambah 60 aegis dan 40 basics.",
+          "timestamp": 1748228415175
+        },
+        {
+          "message": "Clan *Oddysey* ngirim request aliansi.",
+          "timestamp": 1748262581810
+        },
+        {
+          "message": "Clan *Presiden* ngirim request aliansi.",
+          "timestamp": 1748437297535
+        },
+        {
+          "message": "Ponta Senpai menyelesaikan dungeon.",
+          "timestamp": 1748437706395
+        },
+        {
+          "message": "Ponta Senpai menyelesaikan dungeon.",
+          "timestamp": 1748751890090
+        },
+        {
+          "message": "Ponta Senpai melakukan nebang.",
+          "timestamp": 1748752476092
+        },
+        {
+          "message": "Ponta Senpai menyelesaikan dungeon.",
+          "timestamp": 1748782524647
+        },
+        {
+          "message": "Ponta Senpai menyelesaikan dungeon.",
+          "timestamp": 1748963202654
+        },
+        {
+          "message": "lul suka sop buntut melakukan berburu Serigala",
+          "timestamp": 1748992039899
+        },
+        {
+          "message": "lul suka sop buntut melakukan nebang.",
+          "timestamp": 1748992043672
+        },
+        {
+          "message": "lul suka sop buntut melakukan nambang di Hutan",
+          "timestamp": 1748992047075
+        },
+        {
+          "message": "lul suka sop buntut menyelesaikan dungeon.",
+          "timestamp": 1748992056957
+        },
+        {
+          "message": "ponta menyelesaikan dungeon.",
+          "timestamp": 1749043961494
+        },
+        {
+          "message": "all melakukan nebang.",
+          "timestamp": 1751882150977
+        },
+        {
+          "message": "all menyelesaikan dungeon.",
+          "timestamp": 1751882157041
+        },
+        {
+          "message": "Season baru dimulai: Season 2. Resource, artefak, defense, attack, dan bank direset.",
+          "timestamp": 1752019314920
+        },
+        {
+          "message": "Ponta melakukan jelajah.",
+          "timestamp": 1752019410030
+        },
+        {
+          "message": "Ponta melakukan berburu Kelinci",
+          "timestamp": 1752019413255
+        },
+        {
+          "message": "Ponta melakukan nebang.",
+          "timestamp": 1752019439664
+        },
+        {
+          "message": "Ponta melakukan nebang.",
+          "timestamp": 1752326918732
+        },
+        {
+          "message": "Ponta melakukan nebang.",
+          "timestamp": 1752761170554
+        },
+        {
+          "message": "Ponta meng-upgrade defense clan.",
+          "timestamp": 1752761181267
+        },
+        {
+          "message": "Ponta meng-upgrade attack clan.",
+          "timestamp": 1752761185036
+        },
+        {
+          "message": "Ponta meng-upgrade defense clan.",
+          "timestamp": 1752761187906
+        },
+        {
+          "message": "Ponta melakukan nebang.",
+          "timestamp": 1753343746158
+        },
+        {
+          "message": "Ponta melakukan jelajah.",
+          "timestamp": 1753343777876
+        },
+        {
+          "message": "Ponta meng-upgrade attack clan.",
+          "timestamp": 1753343801820
+        },
+        {
+          "message": "Ponta menyelesaikan dungeon.",
+          "timestamp": 1753343807685
+        },
+        {
+          "message": "all melakukan jelajah.",
+          "timestamp": 1756272855435
+        },
+        {
+          "message": "all menyelesaikan dungeon.",
+          "timestamp": 1756272861120
+        },
+        {
+          "message": "all melakukan nebang.",
+          "timestamp": 1756272866608
+        },
+        {
+          "message": "all meng-upgrade defense clan.",
+          "timestamp": 1756272931960
+        },
+        {
+          "message": "all meng-upgrade attack clan.",
+          "timestamp": 1756272940352
+        },
+        {
+          "message": "Ponta melakukan nebang.",
+          "timestamp": 1760310706032
+        },
+        {
+          "message": "Ponta melakukan nambang di Hutan",
+          "timestamp": 1760310710144
+        },
+        {
+          "message": "Ponta melakukan jelajah.",
+          "timestamp": 1760310737888
+        },
+        {
+          "message": "Ponta melakukan berburu Babi",
+          "timestamp": 1760310787757
+        },
+        {
+          "message": "Ponta meng-upgrade defense clan.",
+          "timestamp": 1760310805092
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 0,
+      "profile": null,
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "transferHistory": {
+        "6283857182374@s.whatsapp.net": {
+          "amount": 50,
+          "lastTransferDate": "Tue Dec 03 2024"
+        },
+        "62882006341961@s.whatsapp.net": {
+          "amount": 100,
+          "lastTransferDate": "Tue Dec 03 2024"
+        }
+      },
+      "isInWar": false,
+      "lastWar": 1771427548389,
+      "memberCooldowns": {
+        "6283857182374@s.whatsapp.net": 1760310737884,
+        "62882006341961@s.whatsapp.net": 1756272855434,
+        "6281914939665@s.whatsapp.net": 1733142456119,
+        "6289507732991@s.whatsapp.net": 1733251823530,
+        "6283137181875@s.whatsapp.net": 1742494187957,
+        "6283849737975@s.whatsapp.net": 1742339073958,
+        "6288222335706@s.whatsapp.net": 1736932301208
+      },
+      "dungeonCooldown": {
+        "6283857182374@s.whatsapp.net": {
+          "lastCompleted": 1753343807685
+        },
+        "62882006341961@s.whatsapp.net": {
+          "lastCompleted": 1756272861119
+        },
+        "6281914939665@s.whatsapp.net": {
+          "lastCompleted": 1733142460724
+        },
+        "6289507732991@s.whatsapp.net": {
+          "lastCompleted": 1733251820282
+        },
+        "6283137181875@s.whatsapp.net": {
+          "lastCompleted": 1742494148618
+        },
+        "6283849737975@s.whatsapp.net": {
+          "lastCompleted": 1742631935222
+        },
+        "6288222335706@s.whatsapp.net": {
+          "lastCompleted": 1737181327604
+        }
+      },
+      "officers": [
+        "62882006341961@s.whatsapp.net"
+      ],
+      "memberCooldownsV2": {
+        "6283857182374@s.whatsapp.net": 1760310706028,
+        "6283849737975@s.whatsapp.net": 1742451692253,
+        "62882006341961@s.whatsapp.net": 1756272866608,
+        "6283137181875@s.whatsapp.net": 1742494154739,
+        "6288222335706@s.whatsapp.net": 1737181323783
+      },
+      "alliances": [
+        "z88885",
+        "bn03qg",
+        "0nrqrx"
+      ],
+      "pendingAlliances": [
+        "g3d7j1",
+        "m0pqf5"
+      ],
+      "lastHunt": 1741482435854,
+      "pendingMembers": [
+        "6283849737975@s.whatsapp.net"
+      ],
+      "isRaiding": true,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "lastRaid": 1748752060418,
+      "raidMonster": {
+        "name": "Hydra Venom",
+        "hp": 10000,
+        "attack": 500,
+        "defense": 300,
+        "difficulty": 3,
+        "cpMin": 60,
+        "cpMax": 140,
+        "expMin": 30,
+        "expMax": 70
+      },
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "campLevel": 3,
+      "troops": {},
+      "troopRecovery": {},
+      "raidApprovals": {
+        "VIP777": true
+      }
+    },
+    "z88885": {
+      "id": "z88885",
+      "name": "Ayanami is my wife",
+      "owner": "6281238442691@s.whatsapp.net",
+      "members": [
+        "6281238442691@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 9273,
+      "level": 11,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "heyni keluar dari clan.",
+          "timestamp": 1736649817852
+        },
+        {
+          "message": "di bdsm ama ponta menyelesaikan dungeon.",
+          "timestamp": 1743771525521
+        },
+        {
+          "message": "di bdsm ama ponta menyelesaikan dungeon.",
+          "timestamp": 1747928846101
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nebang.",
+          "timestamp": 1748404517126
+        },
+        {
+          "message": "di bdsm ama ponta menyelesaikan dungeon.",
+          "timestamp": 1748404522038
+        },
+        {
+          "message": "di bdsm ama ponta melakukan berburu Pohon Apel",
+          "timestamp": 1748404526824
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nambang di Hutan",
+          "timestamp": 1748404532429
+        },
+        {
+          "message": "di bdsm ama ponta melakukan jelajah.",
+          "timestamp": 1748404539725
+        },
+        {
+          "message": "di bdsm ama ponta menambah 10 skeleton ke camp, menambah 20 aegis dan 10 basics.",
+          "timestamp": 1748404683817
+        },
+        {
+          "message": "di bdsm ama ponta menambah 10 barbar ke camp, menambah 30 aegis dan 20 basics.",
+          "timestamp": 1748404702471
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404729056
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404738476
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404745299
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404764054
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404768253
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404771413
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404774763
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404778951
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade camp clan.",
+          "timestamp": 1748404781881
+        },
+        {
+          "message": "di bdsm ama ponta menambah 90 barbar ke camp, menambah 270 aegis dan 180 basics.",
+          "timestamp": 1748405027444
+        },
+        {
+          "message": "di bdsm ama ponta menambah 90 skeleton ke camp, menambah 180 aegis dan 90 basics.",
+          "timestamp": 1748405051872
+        },
+        {
+          "message": "di bdsm ama ponta melakukan jelajah.",
+          "timestamp": 1752633190953
+        },
+        {
+          "message": "di bdsm ama ponta melakukan berburu Pohon Apel",
+          "timestamp": 1752633195814
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nebang.",
+          "timestamp": 1752633218215
+        },
+        {
+          "message": "di bdsm ama ponta beli 5 rock seharga Cp. 25",
+          "timestamp": 1752633275295
+        },
+        {
+          "message": "di bdsm ama ponta melakukan jelajah.",
+          "timestamp": 1752930095658
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nebang.",
+          "timestamp": 1752930111444
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nambang di Hutan",
+          "timestamp": 1752930129777
+        },
+        {
+          "message": "di bdsm ama ponta melakukan berburu Babi",
+          "timestamp": 1752930140952
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade attack clan.",
+          "timestamp": 1752930156530
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade defense clan.",
+          "timestamp": 1752930166165
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade attack clan.",
+          "timestamp": 1752930324190
+        },
+        {
+          "message": "di bdsm ama ponta beli 30 rock seharga Cp. 150",
+          "timestamp": 1752930352911
+        },
+        {
+          "message": "di bdsm ama ponta meng-upgrade defense clan.",
+          "timestamp": 1752930362299
+        },
+        {
+          "message": "di bdsm ama ponta menyelesaikan dungeon.",
+          "timestamp": 1752930391505
+        },
+        {
+          "message": "di bdsm ama ponta menyelesaikan dungeon.",
+          "timestamp": 1753947338062
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nebang.",
+          "timestamp": 1753947408701
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nambang di Hutan",
+          "timestamp": 1753947414025
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nebang.",
+          "timestamp": 1754192258088
+        },
+        {
+          "message": "di bdsm ama ponta melakukan jelajah.",
+          "timestamp": 1754192270137
+        },
+        {
+          "message": "di bdsm ama ponta melakukan berburu Serigala",
+          "timestamp": 1754192282041
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nambang di Hutan",
+          "timestamp": 1754192291845
+        },
+        {
+          "message": "di bdsm ama ponta melakukan jelajah.",
+          "timestamp": 1754704047053
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nambang di Hutan",
+          "timestamp": 1754704062116
+        },
+        {
+          "message": "di bdsm ama ponta menyelesaikan dungeon.",
+          "timestamp": 1754704068418
+        },
+        {
+          "message": "di bdsm ama ponta melakukan nebang.",
+          "timestamp": 1754704078198
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 0,
+      "profile": null,
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "transferHistory": {},
+      "isInWar": false,
+      "lastWar": 1771445721371,
+      "dungeonCooldown": {
+        "6281238442691@s.whatsapp.net": {
+          "lastCompleted": 1754704068417
+        },
+        "62895617566464@s.whatsapp.net": {
+          "lastCompleted": 1733666261146
+        },
+        "6289654626148@s.whatsapp.net": {
+          "lastCompleted": 1734851655647
+        },
+        "6288222335706@s.whatsapp.net": {
+          "lastCompleted": 1736649545806
+        }
+      },
+      "memberCooldowns": {
+        "6281238442691@s.whatsapp.net": 1754704047052,
+        "62895617566464@s.whatsapp.net": 1733666280456,
+        "6289654626148@s.whatsapp.net": 1734851652876,
+        "6288222335706@s.whatsapp.net": 1736649573924
+      },
+      "officers": [],
+      "memberCooldownsV2": {
+        "6281238442691@s.whatsapp.net": 1754704078197,
+        "62895617566464@s.whatsapp.net": 1733666292797,
+        "6288222335706@s.whatsapp.net": 1736649535603
+      },
+      "alliances": [
+        "VIP777"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 10,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "1d52wp": {
+      "id": "1d52wp",
+      "name": "Lonely",
+      "owner": "6287884674467@s.whatsapp.net",
+      "members": [
+        "6287884674467@s.whatsapp.net",
+        "6288226780689@s.whatsapp.net",
+        "6285198632910@s.whatsapp.net",
+        "6282179794354@s.whatsapp.net",
+        "62882001438349@s.whatsapp.net",
+        "62882000518598@s.whatsapp.net",
+        "6282261285531@s.whatsapp.net",
+        "6281532692631@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 221,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Lonely\" berhasil dibuat oleh dev.",
+          "timestamp": 1733031880307
+        },
+        {
+          "message": "azzahra keluar dari clan.",
+          "timestamp": 1739453687544
+        },
+        {
+          "message": "azzahra bergabung ke clan.",
+          "timestamp": 1748187016695
+        },
+        {
+          "message": "azzahra melakukan nebang.",
+          "timestamp": 1748187082510
+        },
+        {
+          "message": "azzahra melakukan berburu Rusa",
+          "timestamp": 1748187128724
+        },
+        {
+          "message": "azzahra imutt melakukan nebang.",
+          "timestamp": 1748227738101
+        },
+        {
+          "message": "shiin bergabung ke clan.",
+          "timestamp": 1748437369207
+        },
+        {
+          "message": "Yoe Junseo bergabung ke clan.",
+          "timestamp": 1748437384479
+        },
+        {
+          "message": "azz melakukan nebang.",
+          "timestamp": 1752130205671
+        },
+        {
+          "message": "azz melakukan nebang.",
+          "timestamp": 1758445878222
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "transferHistory": {},
+      "isInWar": false,
+      "lastWar": 1771444701206,
+      "memberCooldowns": {
+        "6287884674467@s.whatsapp.net": 1733123583592,
+        "6285792799010@s.whatsapp.net": 1734093935690,
+        "62882000518598@s.whatsapp.net": 1739365877636
+      },
+      "officers": [],
+      "memberCooldownsV2": {
+        "6285792799010@s.whatsapp.net": 1734093931009,
+        "62882000518598@s.whatsapp.net": 1758445878222
+      },
+      "alliances": [],
+      "pendingAlliances": {},
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "blruba": {
+      "id": "blruba",
+      "name": "Clan Takeyuji",
+      "owner": "628892722966@s.whatsapp.net",
+      "members": [
+        "628892722966@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Clan\" berhasil dibuat oleh dev.",
+          "timestamp": 1733031880307
+        },
+        {
+          "message": "rj melakukan jelajah.",
+          "timestamp": 1733192424380
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "transferHistory": {},
+      "isInWar": false,
+      "lastWar": 1771426485089,
+      "memberCooldowns": {
+        "628892722966@s.whatsapp.net": 1733192424380
+      },
+      "officers": [],
+      "alliances": [],
+      "pendingAlliances": {},
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "rpt7sb": {
+      "id": "rpt7sb",
+      "name": "biji ponta",
+      "owner": "6283894845232@s.whatsapp.net",
+      "members": [
+        "6283894845232@s.whatsapp.net",
+        "6289618707783@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 415,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"biji\" berhasil dibuat oleh dev.",
+          "timestamp": 1733031880307
+        },
+        {
+          "message": "SECT•ACW bergabung ke clan.",
+          "timestamp": 1741955071566
+        },
+        {
+          "message": "SECT•ACW meng-upgrade defense clan.",
+          "timestamp": 1741955091041
+        },
+        {
+          "message": "RyoValhalla keluar dari clan.",
+          "timestamp": 1771400743224
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "transferHistory": {},
+      "isInWar": false,
+      "lastWar": 1771410474946,
+      "officers": [],
+      "memberCooldownsV2": {
+        "6289618707783@s.whatsapp.net": 1735456197280
+      },
+      "memberCooldowns": {
+        "6289618707783@s.whatsapp.net": 1735717827955
+      },
+      "alliances": [],
+      "pendingAlliances": {},
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "oloy8v": {
+      "id": "oloy8v",
+      "name": "kujee",
+      "owner": "62881025370068@s.whatsapp.net",
+      "members": [
+        "62881025370068@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 3659,
+      "level": 5,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "azzahra melakukan nebang.",
+          "timestamp": 1736247617643
+        },
+        {
+          "message": "azzahra keluar dari clan.",
+          "timestamp": 1739365807049
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "isInWar": false,
+      "memberCooldowns": {
+        "62881025370068@s.whatsapp.net": 1736523659715,
+        "62882000518598@s.whatsapp.net": 1738485093206,
+        "6288222335706@s.whatsapp.net": 1735465038076
+      },
+      "memberCooldownsV2": {
+        "62882000518598@s.whatsapp.net": 1738485095478,
+        "62881025370068@s.whatsapp.net": 1736523652699,
+        "6288222335706@s.whatsapp.net": 1735478113193
+      },
+      "lastWar": 1771442293911,
+      "dungeonCooldown": {
+        "6288222335706@s.whatsapp.net": {
+          "lastCompleted": 1735460623895
+        },
+        "62881025370068@s.whatsapp.net": {
+          "lastCompleted": 1736523665590
+        },
+        "62882000518598@s.whatsapp.net": {
+          "lastCompleted": 1738485098011
+        }
+      },
+      "alliances": [],
+      "pendingAlliances": {},
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "ovu1ss": {
+      "id": "ovu1ss",
+      "name": "hokage",
+      "owner": "6285792799010@s.whatsapp.net",
+      "members": [
+        "6285792799010@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 360,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"hokage\" berhasil dibuat oleh ell.",
+          "timestamp": 1734094877397
+        },
+        {
+          "message": "ell melakukan jelajah.",
+          "timestamp": 1734348902558
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "isInWar": false,
+      "memberCooldownsV2": {
+        "6285792799010@s.whatsapp.net": 1734348899832
+      },
+      "memberCooldowns": {
+        "6285792799010@s.whatsapp.net": 1734348902558
+      },
+      "lastWar": 1771425972985,
+      "alliances": [],
+      "pendingAlliances": {},
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "e9ate4": {
+      "id": "e9ate4",
+      "name": "Clan Raja Iblis",
+      "owner": "6283895995318@s.whatsapp.net",
+      "members": [
+        "6283895995318@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 0,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Clan\" berhasil dibuat oleh Soeharto.",
+          "timestamp": 1735448927771
+        },
+        {
+          "message": "Soeharto melakukan jelajah.",
+          "timestamp": 1736247634481
+        },
+        {
+          "message": "Spiderman bergabung ke clan.",
+          "timestamp": 1741764860282
+        },
+        {
+          "message": "Spiderman melakukan nambang di Hutan",
+          "timestamp": 1741782249898
+        },
+        {
+          "message": "Spiderman keluar dari clan.",
+          "timestamp": 1748779612423
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "isInWar": false,
+      "lastWar": 1776207004528,
+      "memberCooldowns": {
+        "6283895995318@s.whatsapp.net": 1736247634480
+      },
+      "alliances": [],
+      "pendingAlliances": {},
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "2bfk2z": {
+      "id": "2bfk2z",
+      "name": "ARE YOU OKEY?",
+      "owner": "6289612888313@s.whatsapp.net",
+      "members": [
+        "6289612888313@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"ARE\" berhasil dibuat oleh azzahra.",
+          "timestamp": 1739453702373
+        },
+        {
+          "message": "-yanzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz bergabung ke clan.",
+          "timestamp": 1739453846354
+        },
+        {
+          "message": "azzahra mengubah privasi clan menjadi ON (Private)",
+          "timestamp": 1739453880176
+        },
+        {
+          "message": "azzahra melakukan nebang.",
+          "timestamp": 1739453886172
+        },
+        {
+          "message": "azzahra melakukan jelajah.",
+          "timestamp": 1739453891564
+        },
+        {
+          "message": "azzahra melakukan nebang.",
+          "timestamp": 1739529274541
+        },
+        {
+          "message": "azzahra melakukan jelajah.",
+          "timestamp": 1739529277048
+        },
+        {
+          "message": "azzahra keluar dari clan.",
+          "timestamp": 1748186861211
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "memberCooldownsV2": {
+        "62882000518598@s.whatsapp.net": 1739529274541
+      },
+      "memberCooldowns": {
+        "62882000518598@s.whatsapp.net": 1739529277048
+      },
+      "alliances": [],
+      "pendingAlliances": {},
+      "isInWar": false,
+      "lastWar": 1771525884085,
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "wd0g21": {
+      "id": "wd0g21",
+      "name": "fans mas amba",
+      "owner": "62881026002400@s.whatsapp.net",
+      "members": [
+        "62881026002400@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 236,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"fans mas amba\" dibuat sama sukir.",
+          "timestamp": 1741782081297
+        },
+        {
+          "message": "sukir melakukan nambang di Hutan",
+          "timestamp": 1741782298207
+        },
+        {
+          "message": "sukir melakukan nebang.",
+          "timestamp": 1741782499974
+        },
+        {
+          "message": "sukir melakukan nambang di Hutan",
+          "timestamp": 1741932099645
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "isInWar": false,
+      "memberCooldownsV2": {
+        "62881026002400@s.whatsapp.net": 1741782499973
+      },
+      "lastWar": 1771482618667,
+      "pendingMembers": {},
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "bn03qg": {
+      "id": "bn03qg",
+      "name": "ponta geloo",
+      "owner": "6285794161086@s.whatsapp.net",
+      "members": [
+        "6285794161086@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"ponta geloo\" dibuat sama Anisaa`ʚɞ.",
+          "timestamp": 1742478926877
+        },
+        {
+          "message": "Clan *VIP Norn* ngirim request aliansi.",
+          "timestamp": 1742481290652
+        },
+        {
+          "message": "Anisaa`ʚɞ nerima aliansi dari clan *VIP Norn*.",
+          "timestamp": 1742481329505
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [
+        "VIP777"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "isInWar": false,
+      "lastWar": 1771479619247
+    },
+    "2q94v3": {
+      "id": "2q94v3",
+      "name": "king emperor",
+      "owner": "6281371881236@s.whatsapp.net",
+      "members": [
+        "6281371881236@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"yes\" dibuat sama Alicia.",
+          "timestamp": 1742479825753
+        },
+        {
+          "message": "Clan \"king emperor\" dibuat sama ryan.",
+          "timestamp": 1742479860815
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": {},
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "isInWar": false,
+      "lastWar": 1771411924009
+    },
+    "n4113x": {
+      "id": "n4113x",
+      "name": "Lexical",
+      "owner": "6282348181097@s.whatsapp.net",
+      "members": [
+        "6282348181097@s.whatsapp.net",
+        "6283896745149@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 401,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Lexical\" dibuat sama Sailox.",
+          "timestamp": 1745575421216
+        },
+        {
+          "message": "Sailox melakukan nebang.",
+          "timestamp": 1745575426908
+        },
+        {
+          "message": "Sailox melakukan jelajah.",
+          "timestamp": 1745575429739
+        },
+        {
+          "message": "Sailox meng-upgrade defense clan.",
+          "timestamp": 1745575443599
+        },
+        {
+          "message": "Sailox melakukan nambang di Hutan",
+          "timestamp": 1745575477960
+        },
+        {
+          "message": "Sailox melakukan berburu Kelinci",
+          "timestamp": 1745575481113
+        },
+        {
+          "message": "Sailox beli 1 iron seharga Cp. 10",
+          "timestamp": 1745575558699
+        },
+        {
+          "message": "Sailox beli 3 rock seharga Cp. 15",
+          "timestamp": 1745575567760
+        },
+        {
+          "message": "Sailox beli 8 coal seharga Cp. 40",
+          "timestamp": 1745575572212
+        },
+        {
+          "message": "Sailox meng-upgrade attack clan.",
+          "timestamp": 1745575574503
+        },
+        {
+          "message": "Sailox melakukan nebang.",
+          "timestamp": 1745823580637
+        },
+        {
+          "message": "Sailox melakukan jelajah.",
+          "timestamp": 1745823585091
+        },
+        {
+          "message": "Nach bergabung ke clan.",
+          "timestamp": 1771706066539
+        },
+        {
+          "message": "Imayuno Sailox melakukan nebang.",
+          "timestamp": 1771753924110
+        },
+        {
+          "message": "Imayuno Sailox melakukan jelajah.",
+          "timestamp": 1771753926744
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldownsV2": {
+        "6282348181097@s.whatsapp.net": 1771753924107
+      },
+      "memberCooldowns": {
+        "6282348181097@s.whatsapp.net": 1771753926742
+      },
+      "isInWar": false,
+      "lastWar": 1771489890187,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {}
+    },
+    "g3d7j1": {
+      "id": "g3d7j1",
+      "name": "hakkai no jiyu",
+      "owner": "62882001942761@s.whatsapp.net",
+      "members": [
+        "6282163504530@s.whatsapp.net",
+        "62882001942761@s.whatsapp.net",
+        "6282118310113@s.whatsapp.net",
+        "6285951643958@s.whatsapp.net",
+        "6281399172380@s.whatsapp.net",
+        "6282137546135@s.whatsapp.net",
+        "628886271534@s.whatsapp.net",
+        "6283126491100@s.whatsapp.net",
+        "6283844393789@s.whatsapp.net",
+        "6288704099621@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 1466,
+      "level": 12,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Dafit|15 melakukan berburu Rusa",
+          "timestamp": 1751128553741
+        },
+        {
+          "message": "Dafit|15 menyelesaikan dungeon.",
+          "timestamp": 1751128562321
+        },
+        {
+          "message": "Dafit|15 melakukan jelajah.",
+          "timestamp": 1751128568121
+        },
+        {
+          "message": "Dafit|15 beli 1 rock seharga Cp. 5",
+          "timestamp": 1751128810712
+        },
+        {
+          "message": "Dafit|15 meng-upgrade attack clan.",
+          "timestamp": 1751128817582
+        },
+        {
+          "message": "Dafit|15 melakukan nambang di Hutan",
+          "timestamp": 1751276225363
+        },
+        {
+          "message": "Dafit|15 melakukan nebang.",
+          "timestamp": 1751276232375
+        },
+        {
+          "message": "Dafit|15 melakukan berburu Serigala",
+          "timestamp": 1751276240296
+        },
+        {
+          "message": "denzo daisyo beli 200 rock seharga Cp. 1000",
+          "timestamp": 1751436464434
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1751436476832
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1751436480145
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1751436483429
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1751436491303
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1751436494837
+        },
+        {
+          "message": "Dafit|15 melakukan nebang.",
+          "timestamp": 1751632868274
+        },
+        {
+          "message": "Dafit|15 melakukan jelajah.",
+          "timestamp": 1751632873306
+        },
+        {
+          "message": "Dafit|15 melakukan berburu Kelinci",
+          "timestamp": 1751632879476
+        },
+        {
+          "message": "Dafit|15 melakukan nambang di Hutan",
+          "timestamp": 1751632881005
+        },
+        {
+          "message": "Dafit|15 menyelesaikan dungeon.",
+          "timestamp": 1751632885677
+        },
+        {
+          "message": "Dafit|15 beli 344 rock seharga Cp. 1720",
+          "timestamp": 1751633702937
+        },
+        {
+          "message": "Dafit|15 meng-upgrade attack clan.",
+          "timestamp": 1751633751407
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1751811912701
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1751811918317
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1751811922359
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1751811959016
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1751811963505
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Kelinci",
+          "timestamp": 1752373764738
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752373772172
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1752373783059
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752373799000
+        },
+        {
+          "message": "denzo daisyo menambah 100 skeleton ke camp, menambah 200 aegis dan 100 basics.",
+          "timestamp": 1752373854035
+        },
+        {
+          "message": "denzo daisyo menambah 300 barbar ke camp, menambah 900 aegis dan 600 basics.",
+          "timestamp": 1752373872658
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1752373905746
+        },
+        {
+          "message": "denzo daisyo beli 2 rock seharga Cp. 10",
+          "timestamp": 1752374005031
+        },
+        {
+          "message": "denzo daisyo beli 5 iron seharga Cp. 50",
+          "timestamp": 1752374012157
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1752374033050
+        },
+        {
+          "message": "denzo daisyo beli 200 rock seharga Cp. 1000",
+          "timestamp": 1752374049252
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752386694544
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Tambang Batu",
+          "timestamp": 1752386699637
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752386703674
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1752386709564
+        },
+        {
+          "message": "denzo daisyo meng-upgrade attack clan.",
+          "timestamp": 1752386722372
+        },
+        {
+          "message": "denzo daisyo meng-upgrade attack clan.",
+          "timestamp": 1752386730330
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1752386737531
+        },
+        {
+          "message": "denzo daisyo menghapus 100 skeleton, mengurangi 200 aegis dan 100 basics.",
+          "timestamp": 1752386902994
+        },
+        {
+          "message": "denzo daisyo menambah 100 barbar ke camp, menambah 300 aegis dan 200 basics.",
+          "timestamp": 1752386922378
+        },
+        {
+          "message": "denzo daisyo meng-upgrade barbar ke level 2, menambah 1200 aegis dan 800 basics.",
+          "timestamp": 1752386981009
+        },
+        {
+          "message": "denzo daisyo meng-upgrade barbar ke level 3, menambah 1200 aegis dan 800 basics.",
+          "timestamp": 1752386992671
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752396405189
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752396409333
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1752396414638
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1752396418404
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1752396422105
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1752396445329
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1752396451104
+        },
+        {
+          "message": "denzo daisyo meng-upgrade attack clan.",
+          "timestamp": 1752396464172
+        },
+        {
+          "message": "denzo daisyo beli 50 iron seharga Cp. 500",
+          "timestamp": 1752396503457
+        },
+        {
+          "message": "denzo daisyo meng-upgrade attack clan.",
+          "timestamp": 1752396514610
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1752460398324
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752460409324
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1752460419768
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752460424428
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1752460431670
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1752460459467
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1752498014929
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752498026839
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1752498057055
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752498077796
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1752498091368
+        },
+        {
+          "message": "denzo daisyo beli 3 rock seharga Cp. 15",
+          "timestamp": 1752498197491
+        },
+        {
+          "message": "denzo daisyo meng-upgrade attack clan.",
+          "timestamp": 1752498207434
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Kelinci",
+          "timestamp": 1752593470558
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752593474990
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1752593479155
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752593485697
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1752593493352
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Rusa",
+          "timestamp": 1752763028094
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1752763043164
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Tambang Besi",
+          "timestamp": 1752763049131
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1752763056523
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1752763060809
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1752763098493
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1753441496684
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1753441500530
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1753441506673
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Serigala",
+          "timestamp": 1753441515241
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1753441520599
+        },
+        {
+          "message": "denzo daisyo melakukan jelajah.",
+          "timestamp": 1753917825060
+        },
+        {
+          "message": "denzo daisyo melakukan berburu Kelinci",
+          "timestamp": 1753917828165
+        },
+        {
+          "message": "denzo daisyo melakukan nebang.",
+          "timestamp": 1753917833898
+        },
+        {
+          "message": "denzo daisyo melakukan nambang di Hutan",
+          "timestamp": 1753917843428
+        },
+        {
+          "message": "denzo daisyo menyelesaikan dungeon.",
+          "timestamp": 1753917847516
+        },
+        {
+          "message": "denzo daisyo meng-upgrade defense clan.",
+          "timestamp": 1753917862971
+        },
+        {
+          "message": "denzo daisyo mengedit barbar dari 400 menjadi 200 pasukan, mengurangi 1800 aegis dan 1200 basics.",
+          "timestamp": 1753917974207
+        },
+        {
+          "message": "denzo daisyo menambah 200 skeleton ke camp, menambah 400 aegis dan 200 basics.",
+          "timestamp": 1753917988985
+        },
+        {
+          "message": "denzo daisyo meng-upgrade skeleton ke level 2, menambah 400 aegis dan 200 basics.",
+          "timestamp": 1753918035639
+        },
+        {
+          "message": "Dafit|15 menambah 10 barbar ke camp, menambah 30 aegis dan 20 basics.",
+          "timestamp": 1764846301461
+        },
+        {
+          "message": "Dafit|15 menambah 100 barbar ke camp, menambah 300 aegis dan 200 basics.",
+          "timestamp": 1764846328223
+        },
+        {
+          "message": "Dafit|15 menambah 290 barbar ke camp, menambah 870 aegis dan 580 basics.",
+          "timestamp": 1764846406157
+        },
+        {
+          "message": "Dafit|15 melakukan nebang.",
+          "timestamp": 1764846628952
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "officers": [
+        "62882001942761@s.whatsapp.net",
+        "6282163504530@s.whatsapp.net",
+        "6281399172380@s.whatsapp.net"
+      ],
+      "transferHistory": {},
+      "alliances": [
+        "ppbccc",
+        "bb59kg"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": true,
+      "raidPeriod": 0,
+      "lastRaid": 1751812866599,
+      "campLevel": 20,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldownsV2": {
+        "62882001942761@s.whatsapp.net": 1753917833898,
+        "6282163504530@s.whatsapp.net": 1748753572207,
+        "628886271534@s.whatsapp.net": 1748615221771,
+        "6281399172380@s.whatsapp.net": 1748822891379,
+        "6283126491100@s.whatsapp.net": 1749575565455,
+        "6283844393789@s.whatsapp.net": 1764846628949
+      },
+      "memberCooldowns": {
+        "62882001942761@s.whatsapp.net": 1753917825059,
+        "6282163504530@s.whatsapp.net": 1748753589982,
+        "6281399172380@s.whatsapp.net": 1748822895357,
+        "628886271534@s.whatsapp.net": 1748615298578,
+        "6283126491100@s.whatsapp.net": 1749575604356,
+        "6283844393789@s.whatsapp.net": 1751632873305
+      },
+      "isInWar": false,
+      "lastWar": 1771444691858,
+      "dungeonCooldown": {
+        "62882001942761@s.whatsapp.net": {
+          "lastCompleted": 1753917847515
+        },
+        "6282163504530@s.whatsapp.net": {
+          "lastCompleted": 1748753600036
+        },
+        "6281399172380@s.whatsapp.net": {
+          "lastCompleted": 1748822878519
+        },
+        "628886271534@s.whatsapp.net": {
+          "lastCompleted": 1748615184470
+        },
+        "6283126491100@s.whatsapp.net": {
+          "lastCompleted": 1749575582621
+        },
+        "6283844393789@s.whatsapp.net": {
+          "lastCompleted": 1751632885677
+        }
+      },
+      "raidMonster": {
+        "name": "Goblin Warlord",
+        "hp": 500,
+        "attack": 50,
+        "defense": 30,
+        "difficulty": 1,
+        "cpMin": 10,
+        "cpMax": 50,
+        "expMin": 10,
+        "expMax": 30
+      },
+      "raidAllies": {},
+      "profile": null,
+      "raidApprovals": {
+        "g3d7j1": true
+      }
+    },
+    "ppbccc": {
+      "id": "ppbccc",
+      "name": "Salamanca family",
+      "owner": "62895338282900@s.whatsapp.net",
+      "members": [
+        "62895338282900@s.whatsapp.net",
+        "6283892344223@s.whatsapp.net",
+        "6281353883431@s.whatsapp.net",
+        "62881010933717@s.whatsapp.net",
+        "6283108326954@s.whatsapp.net",
+        "6287742365065@s.whatsapp.net",
+        "6289606232233@s.whatsapp.net",
+        "6285172175353@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 3022,
+      "level": 10,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "nicho meng-upgrade attack clan.",
+          "timestamp": 1753084834425
+        },
+        {
+          "message": "nicho meng-upgrade attack clan.",
+          "timestamp": 1753084841937
+        },
+        {
+          "message": "nicho meng-upgrade defense clan.",
+          "timestamp": 1753084851509
+        },
+        {
+          "message": "nicho meng-upgrade defense clan.",
+          "timestamp": 1753084865168
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753089141852
+        },
+        {
+          "message": "nicho melakukan nambang di Tambang Batu",
+          "timestamp": 1753089143256
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753089148401
+        },
+        {
+          "message": "nicho melakukan berburu Serigala",
+          "timestamp": 1753089161002
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753089167807
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753102119731
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753102124558
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753102125215
+        },
+        {
+          "message": "nicho melakukan berburu Rusa",
+          "timestamp": 1753102127559
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753102130579
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753173065537
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753173067422
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753173070653
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753173077858
+        },
+        {
+          "message": "nicho melakukan berburu Pohon Apel",
+          "timestamp": 1753173085681
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753446893603
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753446896033
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753446899073
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753446903703
+        },
+        {
+          "message": "nicho melakukan berburu Rusa",
+          "timestamp": 1753446908335
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753512111117
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753512112656
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753512115674
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753512118063
+        },
+        {
+          "message": "nicho melakukan berburu Serigala",
+          "timestamp": 1753512123901
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753521747421
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753521747677
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753521748076
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753521748447
+        },
+        {
+          "message": "nicho melakukan berburu Pohon Anggur",
+          "timestamp": 1753521748889
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753602030229
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753602030862
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753602032573
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753602034991
+        },
+        {
+          "message": "nicho melakukan berburu Pohon Apel",
+          "timestamp": 1753602040337
+        },
+        {
+          "message": "nicho melakukan nambang di Tambang Batu",
+          "timestamp": 1753611459959
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753611460422
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753611460778
+        },
+        {
+          "message": "nicho melakukan berburu Kelinci",
+          "timestamp": 1753611461126
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753622234061
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753622235093
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753622244146
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753622248205
+        },
+        {
+          "message": "nicho melakukan berburu Serigala",
+          "timestamp": 1753622251758
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753623944481
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753623951600
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753623957170
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753707210546
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753707211583
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753707218085
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753707221405
+        },
+        {
+          "message": "nicho melakukan berburu Beruang",
+          "timestamp": 1753707228062
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753882822776
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753882823637
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753882880328
+        },
+        {
+          "message": "nicho melakukan berburu Babi",
+          "timestamp": 1753882909372
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753882919358
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753917380330
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753917385028
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753917394961
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753917398273
+        },
+        {
+          "message": "nicho melakukan berburu Pohon Apel",
+          "timestamp": 1753917402805
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1753965212718
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1753965213020
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1753965213404
+        },
+        {
+          "message": "nicho melakukan berburu Rusa",
+          "timestamp": 1753965213860
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1753965214293
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1754044745228
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1754044749235
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1754044751329
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1754044755439
+        },
+        {
+          "message": "rara melakukan nambang di Hutan",
+          "timestamp": 1754044760247
+        },
+        {
+          "message": "rara melakukan nebang.",
+          "timestamp": 1754044767689
+        },
+        {
+          "message": "nicho melakukan berburu Serigala",
+          "timestamp": 1754044768658
+        },
+        {
+          "message": "rara melakukan berburu Kelinci",
+          "timestamp": 1754044778526
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1754144087935
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1754144089761
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1754144107753
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1754144109769
+        },
+        {
+          "message": "nicho melakukan berburu Kelinci",
+          "timestamp": 1754144115000
+        },
+        {
+          "message": "nicho meng-upgrade defense clan.",
+          "timestamp": 1754150016139
+        },
+        {
+          "message": "nicho meng-upgrade attack clan.",
+          "timestamp": 1754150021578
+        },
+        {
+          "message": "nicho meng-upgrade defense clan.",
+          "timestamp": 1754150032586
+        },
+        {
+          "message": "nicho meng-upgrade defense clan.",
+          "timestamp": 1754150040044
+        },
+        {
+          "message": "nicho meng-upgrade defense clan.",
+          "timestamp": 1754150043503
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1754227673925
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1754227675987
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1754227684091
+        },
+        {
+          "message": "nicho melakukan berburu Serigala",
+          "timestamp": 1754227687431
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1754227689372
+        },
+        {
+          "message": "nicho melakukan nebang.",
+          "timestamp": 1754263432599
+        },
+        {
+          "message": "nicho melakukan nambang di Hutan",
+          "timestamp": 1754263433552
+        },
+        {
+          "message": "nicho melakukan jelajah.",
+          "timestamp": 1754263439147
+        },
+        {
+          "message": "nicho menyelesaikan dungeon.",
+          "timestamp": 1754263442554
+        },
+        {
+          "message": "nicho melakukan berburu Pohon Mangga",
+          "timestamp": 1754263445874
+        },
+        {
+          "message": "rara melakukan nambang di Hutan",
+          "timestamp": 1757339566952
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": "https://files.catbox.moe/6s08z4.jpg",
+      "officers": [
+        "62882001942761@s.whatsapp.net",
+        "6282163504530@s.whatsapp.net"
+      ],
+      "transferHistory": {},
+      "alliances": [
+        "ppbccc",
+        "g3d7j1",
+        "bb59kg"
+      ],
+      "pendingAlliances": [
+        "ppbccc"
+      ],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 1748751643689,
+      "campLevel": 10,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldownsV2": {
+        "62895338282900@s.whatsapp.net": 1751811380667,
+        "6283892344223@s.whatsapp.net": 1749821661397,
+        "6281353883431@s.whatsapp.net": 1752747686067,
+        "6283108326954@s.whatsapp.net": 1748958938090,
+        "6287742365065@s.whatsapp.net": 1751786545094,
+        "6289606232233@s.whatsapp.net": 1754044767689,
+        "6285172175353@s.whatsapp.net": 1754263432599
+      },
+      "profileMessage": ".Clan setprofile",
+      "memberCooldowns": {
+        "62895338282900@s.whatsapp.net": 1751811317613,
+        "6283892344223@s.whatsapp.net": 1749821667412,
+        "6281353883431@s.whatsapp.net": 1752747682723,
+        "6283108326954@s.whatsapp.net": 1748958961897,
+        "6289606232233@s.whatsapp.net": 1752747799396,
+        "6285172175353@s.whatsapp.net": 1754263439147
+      },
+      "isInWar": false,
+      "lastWar": 1771449853216,
+      "dungeonCooldown": {
+        "62895338282900@s.whatsapp.net": {
+          "lastCompleted": 1751811312632
+        },
+        "6283892344223@s.whatsapp.net": {
+          "lastCompleted": 1749821641382
+        },
+        "6281353883431@s.whatsapp.net": {
+          "lastCompleted": 1752747697015
+        },
+        "6289606232233@s.whatsapp.net": {
+          "lastCompleted": 1752747819502
+        },
+        "6285172175353@s.whatsapp.net": {
+          "lastCompleted": 1754263442553
+        }
+      }
+    },
+    "qu2h9k": {
+      "id": "qu2h9k",
+      "name": "Heker",
+      "owner": "6283849737975@s.whatsapp.net",
+      "members": [
+        "6283849737975@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Heker\" dibuat sama Alicia.",
+          "timestamp": 1748436697919
+        },
+        {
+          "message": "Clan \"Presiden\" dibuat sama +62 838-4673-1706.",
+          "timestamp": 1748437261133
+        },
+        {
+          "message": "+62 838-4673-1706 ngirim request aliansi ke clan *Heker*.",
+          "timestamp": 1748437264079
+        },
+        {
+          "message": "Clan *Presiden* ngirim request aliansi.",
+          "timestamp": 1748437264080
+        },
+        {
+          "message": "+62 838-4673-1706 ngirim request aliansi ke clan *VIP Ponta Dm*.",
+          "timestamp": 1748437297534
+        },
+        {
+          "message": "Clan *The Oddysey* ngirim request aliansi.",
+          "timestamp": 1748437593271
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [
+        "m0pqf5",
+        "g3d7j1"
+      ],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "isInWar": false,
+      "lastWar": 1771445770289
+    },
+    "m0pqf5": {
+      "id": "m0pqf5",
+      "name": "Presiden",
+      "owner": "6283846731706@s.whatsapp.net",
+      "members": [
+        "6283846731706@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Heker\" dibuat sama Alicia.",
+          "timestamp": 1748436697919
+        },
+        {
+          "message": "Clan \"Presiden\" dibuat sama +62 838-4673-1706.",
+          "timestamp": 1748437261133
+        },
+        {
+          "message": "+62 838-4673-1706 ngirim request aliansi ke clan *Heker*.",
+          "timestamp": 1748437264079
+        },
+        {
+          "message": "Clan *Presiden* ngirim request aliansi.",
+          "timestamp": 1748437264080
+        },
+        {
+          "message": "+62 838-4673-1706 ngirim request aliansi ke clan *VIP Ponta Dm*.",
+          "timestamp": 1748437297534
+        },
+        {
+          "message": "Clan *The Oddysey* ngirim request aliansi.",
+          "timestamp": 1748437593271
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [
+        "m0pqf5",
+        "g3d7j1"
+      ],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "isInWar": false,
+      "lastWar": 1771480937059
+    },
+    "bb59kg": {
+      "id": "bb59kg",
+      "name": "Nazarick",
+      "owner": "6289654626148@s.whatsapp.net",
+      "members": [
+        "6289654626148@s.whatsapp.net",
+        "6289505844021@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 643,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Nazarick\" dibuat sama Dyzen.",
+          "timestamp": 1748755082492
+        },
+        {
+          "message": "Dyzen mengubah privasi clan menjadi ON (Private)",
+          "timestamp": 1748755102367
+        },
+        {
+          "message": "Dyzen melakukan jelajah.",
+          "timestamp": 1748755129392
+        },
+        {
+          "message": "Dyzen melakukan nambang di Hutan",
+          "timestamp": 1748755141240
+        },
+        {
+          "message": "Dyzen melakukan nebang.",
+          "timestamp": 1748755160383
+        },
+        {
+          "message": "Dyzen melakukan berburu Beruang",
+          "timestamp": 1748755164160
+        },
+        {
+          "message": "Clan *The Oddysey* ngirim request aliansi.",
+          "timestamp": 1748755309171
+        },
+        {
+          "message": "Dyzen nerima aliansi dari clan *The Oddysey*.",
+          "timestamp": 1748755383220
+        },
+        {
+          "message": "Sasha minta join clan (pending approval).",
+          "timestamp": 1748756677882
+        },
+        {
+          "message": "Dyzen nerima Sasha ke clan.",
+          "timestamp": 1748756718026
+        },
+        {
+          "message": "Dyzen promote @6289505844021",
+          "timestamp": 1748756729778
+        },
+        {
+          "message": "Dyzen melakukan nebang.",
+          "timestamp": 1748756752457
+        },
+        {
+          "message": "Dyzen melakukan jelajah.",
+          "timestamp": 1748756756177
+        },
+        {
+          "message": "Sasha melakukan nambang di Hutan",
+          "timestamp": 1748756812751
+        },
+        {
+          "message": "Sasha melakukan nebang.",
+          "timestamp": 1748756816568
+        },
+        {
+          "message": "Sasha melakukan berburu Serigala",
+          "timestamp": 1748756822222
+        },
+        {
+          "message": "Sasha melakukan jelajah.",
+          "timestamp": 1748756828809
+        },
+        {
+          "message": "Dyzen meng-upgrade attack clan.",
+          "timestamp": 1748756848128
+        },
+        {
+          "message": "Dyzen meng-upgrade defense clan.",
+          "timestamp": 1748756858226
+        },
+        {
+          "message": "Clan \"Empire\" dibuat sama alyaa von welton.",
+          "timestamp": 1748767281322
+        },
+        {
+          "message": "zenn minta join clan (pending approval).",
+          "timestamp": 1748767430692
+        },
+        {
+          "message": "alyaa von welton nerima zenn ke clan.",
+          "timestamp": 1748767539291
+        },
+        {
+          "message": "alyaa von welton promote @6281353883431",
+          "timestamp": 1748767785503
+        },
+        {
+          "message": "junzz minta join clan (pending approval).",
+          "timestamp": 1748768983667
+        },
+        {
+          "message": "alyaa von welton nerima junzz ke clan.",
+          "timestamp": 1748768997261
+        },
+        {
+          "message": "alyaa von welton promote @62882003886036",
+          "timestamp": 1748769017265
+        },
+        {
+          "message": "alyaa von welton melakukan nambang di Hutan",
+          "timestamp": 1748769038028
+        },
+        {
+          "message": "junzz melakukan nambang di Hutan",
+          "timestamp": 1748769059631
+        },
+        {
+          "message": "alyaa von welton melakukan jelajah.",
+          "timestamp": 1748769078157
+        },
+        {
+          "message": "alyaa von welton melakukan nebang.",
+          "timestamp": 1748769088200
+        },
+        {
+          "message": "junzz melakukan nebang.",
+          "timestamp": 1748769115264
+        },
+        {
+          "message": "junzz melakukan jelajah.",
+          "timestamp": 1748769131535
+        },
+        {
+          "message": "alyaa von welton melakukan berburu Kelinci",
+          "timestamp": 1748769136393
+        },
+        {
+          "message": "junzz melakukan berburu Serigala",
+          "timestamp": 1748769151967
+        },
+        {
+          "message": "zenn melakukan jelajah.",
+          "timestamp": 1748769171005
+        },
+        {
+          "message": "zenn melakukan nambang di Hutan",
+          "timestamp": 1748769171976
+        },
+        {
+          "message": "zenn melakukan berburu Rusa",
+          "timestamp": 1748769172951
+        },
+        {
+          "message": "zenn meng-upgrade defense clan.",
+          "timestamp": 1748769272080
+        },
+        {
+          "message": "junzz meng-upgrade defense clan.",
+          "timestamp": 1748769279285
+        },
+        {
+          "message": "zenn meng-upgrade attack clan.",
+          "timestamp": 1748769281303
+        },
+        {
+          "message": "zenn beli 3 coal seharga Cp. 15",
+          "timestamp": 1748769451879
+        },
+        {
+          "message": "zenn meng-upgrade attack clan.",
+          "timestamp": 1748769467066
+        },
+        {
+          "message": "zenn menyelesaikan dungeon.",
+          "timestamp": 1748769472459
+        },
+        {
+          "message": "zenn meng-upgrade defense clan.",
+          "timestamp": 1748769484267
+        },
+        {
+          "message": "zenn keluar dari clan.",
+          "timestamp": 1748774508369
+        },
+        {
+          "message": "ambatunat minta join clan (pending approval).",
+          "timestamp": 1748776460120
+        },
+        {
+          "message": "alyaa von welton nerima ambatunat ke clan.",
+          "timestamp": 1748776481478
+        },
+        {
+          "message": "alyaa von welton promote @62895342562424",
+          "timestamp": 1748776491454
+        },
+        {
+          "message": "alyaa von welton melakukan nambang di Hutan",
+          "timestamp": 1748776503539
+        },
+        {
+          "message": "alyaa von welton melakukan berburu Serigala",
+          "timestamp": 1748776507146
+        },
+        {
+          "message": "alyaa von welton menyelesaikan dungeon.",
+          "timestamp": 1748776511913
+        },
+        {
+          "message": "junzz melakukan nambang di Hutan",
+          "timestamp": 1748777487031
+        },
+        {
+          "message": "junzz melakukan nebang.",
+          "timestamp": 1748778645906
+        },
+        {
+          "message": "junzz melakukan jelajah.",
+          "timestamp": 1748778712877
+        },
+        {
+          "message": "junzz menyelesaikan dungeon.",
+          "timestamp": 1748778729997
+        },
+        {
+          "message": "Dyzen meng-upgrade defense clan.",
+          "timestamp": 1748956143715
+        },
+        {
+          "message": "Dyzen melakukan jelajah.",
+          "timestamp": 1748956159687
+        },
+        {
+          "message": "Dyzen meng-upgrade attack clan.",
+          "timestamp": 1748956165858
+        },
+        {
+          "message": "Dyzen ngirim request aliansi ke clan *Salamanca family*.",
+          "timestamp": 1748956323978
+        },
+        {
+          "message": "Dyzen menyelesaikan dungeon.",
+          "timestamp": 1748956362485
+        },
+        {
+          "message": "Clan *Salamanca family* nerima request aliansi.",
+          "timestamp": 1748957041179
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [
+        "6289505844021@s.whatsapp.net",
+        "6281353883431@s.whatsapp.net",
+        "62882003886036@s.whatsapp.net"
+      ],
+      "transferHistory": {},
+      "alliances": [
+        "g3d7j1",
+        "ppbccc"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldowns": {
+        "6289654626148@s.whatsapp.net": 1748956159687,
+        "6289505844021@s.whatsapp.net": 1748756828806
+      },
+      "memberCooldownsV2": {
+        "6289654626148@s.whatsapp.net": 1748756752453,
+        "6289505844021@s.whatsapp.net": 1748756816566
+      },
+      "dungeonCooldown": {
+        "6289654626148@s.whatsapp.net": {
+          "lastCompleted": 1748956362485
+        }
+      },
+      "isInWar": false,
+      "lastWar": 1771449873931
+    },
+    "bxajmj": {
+      "id": "bxajmj",
+      "name": "Empire",
+      "owner": "6282340959675@s.whatsapp.net",
+      "members": [
+        "6282340959675@s.whatsapp.net",
+        "62882003886036@s.whatsapp.net",
+        "62895342562424@s.whatsapp.net",
+        "6287842741324@s.whatsapp.net",
+        "6283139011449@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 1547,
+      "level": 2,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Nazarick\" dibuat sama Dyzen.",
+          "timestamp": 1748755082492
+        },
+        {
+          "message": "Dyzen mengubah privasi clan menjadi ON (Private)",
+          "timestamp": 1748755102367
+        },
+        {
+          "message": "Dyzen melakukan jelajah.",
+          "timestamp": 1748755129392
+        },
+        {
+          "message": "Dyzen melakukan nambang di Hutan",
+          "timestamp": 1748755141240
+        },
+        {
+          "message": "Dyzen melakukan nebang.",
+          "timestamp": 1748755160383
+        },
+        {
+          "message": "Dyzen melakukan berburu Beruang",
+          "timestamp": 1748755164160
+        },
+        {
+          "message": "Clan *The Oddysey* ngirim request aliansi.",
+          "timestamp": 1748755309171
+        },
+        {
+          "message": "Dyzen nerima aliansi dari clan *The Oddysey*.",
+          "timestamp": 1748755383220
+        },
+        {
+          "message": "Sasha minta join clan (pending approval).",
+          "timestamp": 1748756677882
+        },
+        {
+          "message": "Dyzen nerima Sasha ke clan.",
+          "timestamp": 1748756718026
+        },
+        {
+          "message": "Dyzen promote @6289505844021",
+          "timestamp": 1748756729778
+        },
+        {
+          "message": "Dyzen melakukan nebang.",
+          "timestamp": 1748756752457
+        },
+        {
+          "message": "Dyzen melakukan jelajah.",
+          "timestamp": 1748756756177
+        },
+        {
+          "message": "Sasha melakukan nambang di Hutan",
+          "timestamp": 1748756812751
+        },
+        {
+          "message": "Sasha melakukan nebang.",
+          "timestamp": 1748756816568
+        },
+        {
+          "message": "Sasha melakukan berburu Serigala",
+          "timestamp": 1748756822222
+        },
+        {
+          "message": "Sasha melakukan jelajah.",
+          "timestamp": 1748756828809
+        },
+        {
+          "message": "Dyzen meng-upgrade attack clan.",
+          "timestamp": 1748756848128
+        },
+        {
+          "message": "Dyzen meng-upgrade defense clan.",
+          "timestamp": 1748756858226
+        },
+        {
+          "message": "Clan \"Empire\" dibuat sama alyaa von welton.",
+          "timestamp": 1748767281322
+        },
+        {
+          "message": "zenn minta join clan (pending approval).",
+          "timestamp": 1748767430692
+        },
+        {
+          "message": "alyaa von welton nerima zenn ke clan.",
+          "timestamp": 1748767539291
+        },
+        {
+          "message": "alyaa von welton promote @6281353883431",
+          "timestamp": 1748767785503
+        },
+        {
+          "message": "junzz minta join clan (pending approval).",
+          "timestamp": 1748768983667
+        },
+        {
+          "message": "alyaa von welton nerima junzz ke clan.",
+          "timestamp": 1748768997261
+        },
+        {
+          "message": "alyaa von welton promote @62882003886036",
+          "timestamp": 1748769017265
+        },
+        {
+          "message": "alyaa von welton melakukan nambang di Hutan",
+          "timestamp": 1748769038028
+        },
+        {
+          "message": "junzz melakukan nambang di Hutan",
+          "timestamp": 1748769059631
+        },
+        {
+          "message": "alyaa von welton melakukan jelajah.",
+          "timestamp": 1748769078157
+        },
+        {
+          "message": "alyaa von welton melakukan nebang.",
+          "timestamp": 1748769088200
+        },
+        {
+          "message": "junzz melakukan nebang.",
+          "timestamp": 1748769115264
+        },
+        {
+          "message": "junzz melakukan jelajah.",
+          "timestamp": 1748769131535
+        },
+        {
+          "message": "alyaa von welton melakukan berburu Kelinci",
+          "timestamp": 1748769136393
+        },
+        {
+          "message": "junzz melakukan berburu Serigala",
+          "timestamp": 1748769151967
+        },
+        {
+          "message": "zenn melakukan jelajah.",
+          "timestamp": 1748769171005
+        },
+        {
+          "message": "zenn melakukan nambang di Hutan",
+          "timestamp": 1748769171976
+        },
+        {
+          "message": "zenn melakukan berburu Rusa",
+          "timestamp": 1748769172951
+        },
+        {
+          "message": "zenn meng-upgrade defense clan.",
+          "timestamp": 1748769272080
+        },
+        {
+          "message": "junzz meng-upgrade defense clan.",
+          "timestamp": 1748769279285
+        },
+        {
+          "message": "zenn meng-upgrade attack clan.",
+          "timestamp": 1748769281303
+        },
+        {
+          "message": "zenn beli 3 coal seharga Cp. 15",
+          "timestamp": 1748769451879
+        },
+        {
+          "message": "zenn meng-upgrade attack clan.",
+          "timestamp": 1748769467066
+        },
+        {
+          "message": "zenn menyelesaikan dungeon.",
+          "timestamp": 1748769472459
+        },
+        {
+          "message": "zenn meng-upgrade defense clan.",
+          "timestamp": 1748769484267
+        },
+        {
+          "message": "zenn keluar dari clan.",
+          "timestamp": 1748774508369
+        },
+        {
+          "message": "ambatunat minta join clan (pending approval).",
+          "timestamp": 1748776460120
+        },
+        {
+          "message": "alyaa von welton nerima ambatunat ke clan.",
+          "timestamp": 1748776481478
+        },
+        {
+          "message": "alyaa von welton promote @62895342562424",
+          "timestamp": 1748776491454
+        },
+        {
+          "message": "alyaa von welton melakukan nambang di Hutan",
+          "timestamp": 1748776503539
+        },
+        {
+          "message": "alyaa von welton melakukan berburu Serigala",
+          "timestamp": 1748776507146
+        },
+        {
+          "message": "alyaa von welton menyelesaikan dungeon.",
+          "timestamp": 1748776511913
+        },
+        {
+          "message": "junzz melakukan nambang di Hutan",
+          "timestamp": 1748777487031
+        },
+        {
+          "message": "junzz melakukan nebang.",
+          "timestamp": 1748778645906
+        },
+        {
+          "message": "junzz melakukan jelajah.",
+          "timestamp": 1748778712877
+        },
+        {
+          "message": "junzz menyelesaikan dungeon.",
+          "timestamp": 1748778729997
+        },
+        {
+          "message": "jes minta join clan (pending approval).",
+          "timestamp": 1748950577730
+        },
+        {
+          "message": "alyaa von welton nerima jes ke clan.",
+          "timestamp": 1748950638097
+        },
+        {
+          "message": "alyaa von welton melakukan berburu Kelinci",
+          "timestamp": 1748950674373
+        },
+        {
+          "message": "alyaa von welton melakukan nambang di Hutan",
+          "timestamp": 1748950677571
+        },
+        {
+          "message": "alyaa von welton melakukan jelajah.",
+          "timestamp": 1748950690790
+        },
+        {
+          "message": "alyaa von welton menyelesaikan dungeon.",
+          "timestamp": 1748950706356
+        },
+        {
+          "message": "jes melakukan berburu Serigala",
+          "timestamp": 1748950709770
+        },
+        {
+          "message": "alyaa von welton meng-upgrade attack clan.",
+          "timestamp": 1748950713057
+        },
+        {
+          "message": "alyaa von welton beli 100 rock seharga Cp. 500",
+          "timestamp": 1748950828731
+        },
+        {
+          "message": "alyaa von welton meng-upgrade camp clan.",
+          "timestamp": 1748950847849
+        },
+        {
+          "message": "jes meng-upgrade camp clan.",
+          "timestamp": 1748950848252
+        },
+        {
+          "message": "alyaa von welton menambah 30 skeleton ke camp, menambah 60 aegis dan 30 basics.",
+          "timestamp": 1748950936904
+        },
+        {
+          "message": "alyaa von welton menambah 30 skeleton ke camp, menambah 60 aegis dan 30 basics.",
+          "timestamp": 1748950952042
+        },
+        {
+          "message": "jes melakukan jelajah.",
+          "timestamp": 1748951059512
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1748951088048
+        },
+        {
+          "message": "jes melakukan berburu Kelinci",
+          "timestamp": 1748955097128
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1748958674913
+        },
+        {
+          "message": "jes melakukan jelajah.",
+          "timestamp": 1748958690264
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1749110376441
+        },
+        {
+          "message": "jes minta join clan (pending approval).",
+          "timestamp": 1749119761297
+        },
+        {
+          "message": "alyaa von welton nerima jes ke clan.",
+          "timestamp": 1749119794805
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1749119815098
+        },
+        {
+          "message": "alyaa von welton mengubah privasi clan menjadi OFF (Public)",
+          "timestamp": 1749119848810
+        },
+        {
+          "message": "alyaa von welton melakukan nambang di Hutan",
+          "timestamp": 1749119893528
+        },
+        {
+          "message": "alyaa von welton melakukan berburu Rusa",
+          "timestamp": 1749119897576
+        },
+        {
+          "message": "alyaa von welton melakukan jelajah.",
+          "timestamp": 1749119903317
+        },
+        {
+          "message": "alyaa von welton menyelesaikan dungeon.",
+          "timestamp": 1749119908461
+        },
+        {
+          "message": "alyaa von welton melakukan nebang.",
+          "timestamp": 1749119914058
+        },
+        {
+          "message": "fadlan bergabung ke clan.",
+          "timestamp": 1749119981970
+        },
+        {
+          "message": "fadlan melakukan nebang.",
+          "timestamp": 1749120054681
+        },
+        {
+          "message": "jes melakukan berburu Beruang",
+          "timestamp": 1749120069082
+        },
+        {
+          "message": "fadlan menyelesaikan dungeon.",
+          "timestamp": 1749120134076
+        },
+        {
+          "message": "fadlan melakukan jelajah.",
+          "timestamp": 1749120165523
+        },
+        {
+          "message": "alyaa von welton meng-upgrade camp clan.",
+          "timestamp": 1749120294006
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1749121258487
+        },
+        {
+          "message": "jes melakukan jelajah.",
+          "timestamp": 1749121486971
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1749783700978
+        },
+        {
+          "message": "jes menyelesaikan dungeon.",
+          "timestamp": 1749952325698
+        },
+        {
+          "message": "jes keluar dari clan.",
+          "timestamp": 1749952421777
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [
+        "6289505844021@s.whatsapp.net",
+        "62882003886036@s.whatsapp.net",
+        "62895342562424@s.whatsapp.net"
+      ],
+      "transferHistory": {},
+      "alliances": [
+        "g3d7j1"
+      ],
+      "pendingAlliances": [
+        "g3d7j1"
+      ],
+      "pendingMembers": [
+        "6289505844021@s.whatsapp.net"
+      ],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 4,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldowns": {
+        "6282340959675@s.whatsapp.net": 1749119903316,
+        "62882003886036@s.whatsapp.net": 1748778712875,
+        "6281353883431@s.whatsapp.net": 1748769171003,
+        "6282144822178@s.whatsapp.net": 1749121486970,
+        "6283139011449@s.whatsapp.net": 1749120165523
+      },
+      "memberCooldownsV2": {
+        "6282340959675@s.whatsapp.net": 1749119914058,
+        "62882003886036@s.whatsapp.net": 1748778645904,
+        "6283139011449@s.whatsapp.net": 1749120054681
+      },
+      "dungeonCooldown": {
+        "6281353883431@s.whatsapp.net": {
+          "lastCompleted": 1748769472455
+        },
+        "6282340959675@s.whatsapp.net": {
+          "lastCompleted": 1749119908460
+        },
+        "62882003886036@s.whatsapp.net": {
+          "lastCompleted": 1748778729993
+        },
+        "6282144822178@s.whatsapp.net": {
+          "lastCompleted": 1749952325697
+        },
+        "6287842741324@s.whatsapp.net": {
+          "lastCompleted": 1749119815097
+        },
+        "6283139011449@s.whatsapp.net": {
+          "lastCompleted": 1749120134076
+        }
+      },
+      "isInWar": false,
+      "lastWar": 1771511613781
+    },
+    "zjgu5w": {
+      "id": "zjgu5w",
+      "name": "DemonX",
+      "owner": "6282291044175@s.whatsapp.net",
+      "members": [
+        "6282291044175@s.whatsapp.net",
+        "6288289507601@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"DemonX\" dibuat sama nama.",
+          "timestamp": 1749040630030
+        },
+        {
+          "message": "Clan \"Empire of Wibu\" dibuat sama Amane.",
+          "timestamp": 1749047135096
+        },
+        {
+          "message": "@UserNekopoi😺 bergabung ke clan.",
+          "timestamp": 1753947486798
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "isInWar": false,
+      "lastWar": 1771501131053
+    },
+    "h7ni99": {
+      "id": "h7ni99",
+      "name": "Empire of Wibu",
+      "owner": "6285124986926@s.whatsapp.net",
+      "members": [
+        "6285124986926@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 0,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"DemonX\" dibuat sama nama.",
+          "timestamp": 1749040630030
+        },
+        {
+          "message": "Clan \"Empire of Wibu\" dibuat sama Amane.",
+          "timestamp": 1749047135096
+        },
+        {
+          "message": "Clan *Grieving Souls* ngirim request aliansi.",
+          "timestamp": 1749967825819
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [
+        "ye3rur"
+      ],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "isInWar": false,
+      "lastWar": 1776237866577
+    },
+    "gegsr8": {
+      "id": "gegsr8",
+      "name": "Alexander agung",
+      "owner": "62895417892820@s.whatsapp.net",
+      "members": [
+        "62895417892820@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 1069,
+      "level": 2,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"vvvvv\" dibuat sama vishal.",
+          "timestamp": 1749123373667
+        },
+        {
+          "message": "Clan \"Alexander agung\" dibuat sama z.",
+          "timestamp": 1749123448826
+        },
+        {
+          "message": "vishal bergabung ke clan.",
+          "timestamp": 1749124061046
+        },
+        {
+          "message": "Clan *Grieving Souls* ngirim request aliansi.",
+          "timestamp": 1750075405703
+        },
+        {
+          "message": "z nerima aliansi dari clan *Grieving Souls*.",
+          "timestamp": 1750075537421
+        },
+        {
+          "message": "vishal keluar dari clan.",
+          "timestamp": 1750237970366
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750323842517
+        },
+        {
+          "message": "z melakukan berburu Kelinci",
+          "timestamp": 1750323871007
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750323896784
+        },
+        {
+          "message": "z melakukan berburu Pohon Apel",
+          "timestamp": 1750336587080
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750336599909
+        },
+        {
+          "message": "z melakukan jelajah.",
+          "timestamp": 1750336626945
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750336636960
+        },
+        {
+          "message": "z melakukan berburu Kelinci",
+          "timestamp": 1750379287240
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750379335272
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750379352499
+        },
+        {
+          "message": "z melakukan jelajah.",
+          "timestamp": 1750379363670
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750397956884
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750397972110
+        },
+        {
+          "message": "z melakukan berburu Pohon Apel",
+          "timestamp": 1750397980604
+        },
+        {
+          "message": "z melakukan jelajah.",
+          "timestamp": 1750397990161
+        },
+        {
+          "message": "z melakukan berburu Rusa",
+          "timestamp": 1750407436715
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750407782242
+        },
+        {
+          "message": "z melakukan berburu Babi",
+          "timestamp": 1750461056814
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750461062780
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750461071414
+        },
+        {
+          "message": "z melakukan jelajah.",
+          "timestamp": 1750461160898
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750564674849
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750564679267
+        },
+        {
+          "message": "z melakukan jelajah.",
+          "timestamp": 1750564686394
+        },
+        {
+          "message": "z melakukan berburu Serigala",
+          "timestamp": 1750564691367
+        },
+        {
+          "message": "z melakukan berburu Serigala",
+          "timestamp": 1750734463999
+        },
+        {
+          "message": "z melakukan nebang.",
+          "timestamp": 1750734475674
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750734484193
+        },
+        {
+          "message": "z melakukan berburu Pohon Apel",
+          "timestamp": 1750903274248
+        },
+        {
+          "message": "z melakukan nambang di Hutan",
+          "timestamp": 1750903281837
+        },
+        {
+          "message": "z melakukan jelajah.",
+          "timestamp": 1750903286984
+        },
+        {
+          "message": "z beli 20 wood seharga Cp. 100",
+          "timestamp": 1750903437492
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [
+        "ye3rur"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 1750553477007,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "isInWar": false,
+      "lastWar": 1771534703297,
+      "memberCooldownsV2": {
+        "62895417892820@s.whatsapp.net": 1750734475673
+      },
+      "memberCooldowns": {
+        "62895417892820@s.whatsapp.net": 1750903286983
+      }
+    },
+    "ye3rur": {
+      "id": "ye3rur",
+      "name": "Grieving Souls",
+      "owner": "6285874167868@s.whatsapp.net",
+      "members": [
+        "6285874167868@s.whatsapp.net",
+        "6285697858815@s.whatsapp.net",
+        "6289529283160@s.whatsapp.net",
+        "6288809961646@s.whatsapp.net",
+        "62887437423195@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 3342,
+      "level": 17,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "indrut melakukan nebang.",
+          "timestamp": 1750813684062
+        },
+        {
+          "message": "indrut melakukan nambang di Hutan",
+          "timestamp": 1750813685191
+        },
+        {
+          "message": "indrut menyelesaikan dungeon.",
+          "timestamp": 1750813686080
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1750818914194
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1750818917390
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1750818921171
+        },
+        {
+          "message": "vishal melakukan berburu Babi",
+          "timestamp": 1750818923711
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1750818928637
+        },
+        {
+          "message": "Revan melakukan jelajah.",
+          "timestamp": 1750838280099
+        },
+        {
+          "message": "Revan melakukan nebang.",
+          "timestamp": 1750838282803
+        },
+        {
+          "message": "Revan melakukan nambang di Tambang Batu",
+          "timestamp": 1750838285728
+        },
+        {
+          "message": "Revan menyelesaikan dungeon.",
+          "timestamp": 1750838288478
+        },
+        {
+          "message": "Revan melakukan berburu Rusa",
+          "timestamp": 1750838291484
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1750839723213
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1750839728534
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1750839732017
+        },
+        {
+          "message": "vishal melakukan berburu Kelinci",
+          "timestamp": 1750839735514
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1750839739715
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1750845116016
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1750845119830
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1750845123468
+        },
+        {
+          "message": "vishal melakukan berburu Serigala",
+          "timestamp": 1750845127163
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1750845132277
+        },
+        {
+          "message": "Revan melakukan jelajah.",
+          "timestamp": 1750895834602
+        },
+        {
+          "message": "Revan melakukan nambang di Hutan",
+          "timestamp": 1750895837736
+        },
+        {
+          "message": "Revan menyelesaikan dungeon.",
+          "timestamp": 1750895841055
+        },
+        {
+          "message": "Revan melakukan berburu Pohon Apel",
+          "timestamp": 1750895844344
+        },
+        {
+          "message": "Reva melakukan jelajah.",
+          "timestamp": 1750896467601
+        },
+        {
+          "message": "Reva melakukan nebang.",
+          "timestamp": 1750896468338
+        },
+        {
+          "message": "Reva melakukan nambang di Hutan",
+          "timestamp": 1750896472930
+        },
+        {
+          "message": "Reva menyelesaikan dungeon.",
+          "timestamp": 1750896474880
+        },
+        {
+          "message": "Reva melakukan berburu Serigala",
+          "timestamp": 1750896478701
+        },
+        {
+          "message": "Revan meng-upgrade camp clan.",
+          "timestamp": 1750896670477
+        },
+        {
+          "message": "Revan meng-upgrade attack clan.",
+          "timestamp": 1750896674813
+        },
+        {
+          "message": "Revan meng-upgrade defense clan.",
+          "timestamp": 1750896678576
+        },
+        {
+          "message": "indrut melakukan berburu Beruang",
+          "timestamp": 1750901385250
+        },
+        {
+          "message": "indrut melakukan nebang.",
+          "timestamp": 1750901388536
+        },
+        {
+          "message": "indrut melakukan nambang di Hutan",
+          "timestamp": 1750901392650
+        },
+        {
+          "message": "indrut menyelesaikan dungeon.",
+          "timestamp": 1750901397300
+        },
+        {
+          "message": "Revan melakukan jelajah.",
+          "timestamp": 1750901724919
+        },
+        {
+          "message": "Revan melakukan nebang.",
+          "timestamp": 1750901729848
+        },
+        {
+          "message": "Revan melakukan nambang di Hutan",
+          "timestamp": 1750901735868
+        },
+        {
+          "message": "Revan menyelesaikan dungeon.",
+          "timestamp": 1750901738813
+        },
+        {
+          "message": "indrut melakukan jelajah.",
+          "timestamp": 1750901740580
+        },
+        {
+          "message": "Revan melakukan berburu Serigala",
+          "timestamp": 1750901742183
+        },
+        {
+          "message": "Revan menambah 40 pemanah ke camp, menambah 480 aegis dan 480 basics.",
+          "timestamp": 1750903369509
+        },
+        {
+          "message": "Revan menambah 10 pemanah ke camp, menambah 120 aegis dan 120 basics.",
+          "timestamp": 1750903399855
+        },
+        {
+          "message": "Revan menambah 3 pemanah ke camp, menambah 36 aegis dan 36 basics.",
+          "timestamp": 1750903415816
+        },
+        {
+          "message": "Revan beli 1000 rock seharga Cp. 5000",
+          "timestamp": 1750903428539
+        },
+        {
+          "message": "Revan meng-upgrade camp clan.",
+          "timestamp": 1750903450312
+        },
+        {
+          "message": "Revan menambah 20 pemanah ke camp, menambah 240 aegis dan 240 basics.",
+          "timestamp": 1750903465037
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1750910051072
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1750910055507
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1750910058822
+        },
+        {
+          "message": "vishal melakukan berburu Beruang",
+          "timestamp": 1750910062003
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1750910066042
+        },
+        {
+          "message": "Revan melakukan jelajah.",
+          "timestamp": 1750922425726
+        },
+        {
+          "message": "Revan melakukan nebang.",
+          "timestamp": 1750922435109
+        },
+        {
+          "message": "Revan melakukan nambang di Hutan",
+          "timestamp": 1750922438538
+        },
+        {
+          "message": "Revan menyelesaikan dungeon.",
+          "timestamp": 1750922445422
+        },
+        {
+          "message": "Revan melakukan berburu Serigala",
+          "timestamp": 1750922449061
+        },
+        {
+          "message": "indrut melakukan berburu Kelinci",
+          "timestamp": 1750937404079
+        },
+        {
+          "message": "indrut melakukan nebang.",
+          "timestamp": 1750937410334
+        },
+        {
+          "message": "indrut melakukan nambang di Tambang Batu",
+          "timestamp": 1750937411048
+        },
+        {
+          "message": "indrut menyelesaikan dungeon.",
+          "timestamp": 1750937415339
+        },
+        {
+          "message": "Revan melakukan jelajah.",
+          "timestamp": 1750939787277
+        },
+        {
+          "message": "Revan melakukan nebang.",
+          "timestamp": 1750939791786
+        },
+        {
+          "message": "Revan melakukan nambang di Hutan",
+          "timestamp": 1750939795441
+        },
+        {
+          "message": "Revan menyelesaikan dungeon.",
+          "timestamp": 1750939798790
+        },
+        {
+          "message": "Revan melakukan berburu Kelinci",
+          "timestamp": 1750939802020
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1750948500470
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1750948515902
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1750948525095
+        },
+        {
+          "message": "vishal melakukan berburu Serigala",
+          "timestamp": 1750948569636
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1750948573723
+        },
+        {
+          "message": "Revan melakukan jelajah.",
+          "timestamp": 1750982861285
+        },
+        {
+          "message": "Revan melakukan nebang.",
+          "timestamp": 1750982864742
+        },
+        {
+          "message": "Revan melakukan nambang di Hutan",
+          "timestamp": 1750982868006
+        },
+        {
+          "message": "Revan menyelesaikan dungeon.",
+          "timestamp": 1750982878556
+        },
+        {
+          "message": "Revan melakukan berburu Serigala",
+          "timestamp": 1750982881617
+        },
+        {
+          "message": "Reva melakukan jelajah.",
+          "timestamp": 1750994069457
+        },
+        {
+          "message": "Reva melakukan nebang.",
+          "timestamp": 1750994072787
+        },
+        {
+          "message": "Reva melakukan nambang di Hutan",
+          "timestamp": 1750994076178
+        },
+        {
+          "message": "Reva menyelesaikan dungeon.",
+          "timestamp": 1750994082474
+        },
+        {
+          "message": "Reva melakukan berburu Serigala",
+          "timestamp": 1750994088441
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1751098907554
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1751098910229
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1751098913419
+        },
+        {
+          "message": "vishal melakukan berburu Pohon Apel",
+          "timestamp": 1751098917708
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1751098923265
+        },
+        {
+          "message": "vishal melakukan nambang di Hutan",
+          "timestamp": 1751119849682
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1751119853205
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1751119859709
+        },
+        {
+          "message": "vishal melakukan berburu Rusa",
+          "timestamp": 1751119892000
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1751119896162
+        },
+        {
+          "message": "vishal menyelesaikan dungeon.",
+          "timestamp": 1751123828536
+        },
+        {
+          "message": "vishal melakukan nambang di Tambang Batu",
+          "timestamp": 1751123831602
+        },
+        {
+          "message": "vishal melakukan nebang.",
+          "timestamp": 1751123834565
+        },
+        {
+          "message": "vishal melakukan berburu Serigala",
+          "timestamp": 1751123838168
+        },
+        {
+          "message": "vishal melakukan jelajah.",
+          "timestamp": 1751123844617
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 0,
+      "profile": "https://files.catbox.moe/mb6mp4.jpg",
+      "officers": [
+        "6285697858815@s.whatsapp.net",
+        "6288809961646@s.whatsapp.net"
+      ],
+      "transferHistory": {},
+      "alliances": [
+        "gegsr8"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidPeriod": 0,
+      "lastRaid": 1750553381832,
+      "campLevel": 28,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldownsV2": {
+        "6285874167868@s.whatsapp.net": 1750982864742,
+        "6285697858815@s.whatsapp.net": 1750937410333,
+        "62887437423195@s.whatsapp.net": 1750994072787,
+        "6282257905426@s.whatsapp.net": 1750405707680,
+        "6285245663455@s.whatsapp.net": 1749773390463,
+        "6288809961646@s.whatsapp.net": 1751123834565
+      },
+      "memberCooldowns": {
+        "6285697858815@s.whatsapp.net": 1750901740580,
+        "6285874167868@s.whatsapp.net": 1750982861283,
+        "62887437423195@s.whatsapp.net": 1750994069457,
+        "6288809961646@s.whatsapp.net": 1751123844615
+      },
+      "isInWar": false,
+      "lastWar": 1771536248450,
+      "dungeonCooldown": {
+        "6285697858815@s.whatsapp.net": {
+          "lastCompleted": 1750937415338
+        },
+        "6285874167868@s.whatsapp.net": {
+          "lastCompleted": 1750982878556
+        },
+        "62887437423195@s.whatsapp.net": {
+          "lastCompleted": 1750994082474
+        },
+        "6282257905426@s.whatsapp.net": {
+          "lastCompleted": 1750405723247
+        },
+        "6288809961646@s.whatsapp.net": {
+          "lastCompleted": 1751123828536
+        },
+        "6282144822178@s.whatsapp.net": {
+          "lastCompleted": 1750378109745
+        }
+      },
+      "profileMessage": ".clan setprofile",
+      "raidMonster": null,
+      "raidAllies": {}
+    },
+    "3dk7tz": {
+      "id": "3dk7tz",
+      "name": "Amidonia",
+      "owner": "6288297471449@s.whatsapp.net",
+      "members": [
+        "6288297471449@s.whatsapp.net",
+        "6289601963842@s.whatsapp.net",
+        "6289523936604@s.whatsapp.net",
+        "6285141141836@s.whatsapp.net",
+        "6285813185700@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 177,
+        "iron": 42,
+        "diamond": 36,
+        "rock": 42,
+        "coal": 24,
+        "string": 227,
+        "apple": 0,
+        "berry": 0,
+        "meat": 14,
+        "bone": 13,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 1615,
+      "level": 10,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Hiro menyelesaikan dungeon.",
+          "timestamp": 1771760974393
+        },
+        {
+          "message": "Hiro melakukan jelajah.",
+          "timestamp": 1771760978316
+        },
+        {
+          "message": "Hiro melakukan nebang.",
+          "timestamp": 1771760981483
+        },
+        {
+          "message": "Hiro melakukan nambang di Hutan",
+          "timestamp": 1771760992981
+        },
+        {
+          "message": "Hiro melakukan berburu Serigala",
+          "timestamp": 1771760996057
+        },
+        {
+          "message": "Hiro menyelesaikan dungeon.",
+          "timestamp": 1771763612898
+        },
+        {
+          "message": "Hiro melakukan nebang.",
+          "timestamp": 1771763615356
+        },
+        {
+          "message": "Hiro melakukan jelajah.",
+          "timestamp": 1771763618381
+        },
+        {
+          "message": "Hiro menyelesaikan dungeon.",
+          "timestamp": 1771766673461
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Tambang Batu",
+          "timestamp": 1771768960485
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1771769047325
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1771769050994
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Serigala",
+          "timestamp": 1771769054903
+        },
+        {
+          "message": "kiru melakukan jelajah.",
+          "timestamp": 1771769968853
+        },
+        {
+          "message": "kiru menyelesaikan dungeon.",
+          "timestamp": 1771769969551
+        },
+        {
+          "message": "kiru melakukan nebang.",
+          "timestamp": 1771769974345
+        },
+        {
+          "message": "kiru melakukan nambang di Hutan",
+          "timestamp": 1771769978182
+        },
+        {
+          "message": "kiru melakukan berburu Serigala",
+          "timestamp": 1771769981073
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1771771818356
+        },
+        {
+          "message": "Hiro menyelesaikan dungeon.",
+          "timestamp": 1771771828603
+        },
+        {
+          "message": "Hiro melakukan nebang.",
+          "timestamp": 1771771833528
+        },
+        {
+          "message": "Hiro melakukan nambang di Hutan",
+          "timestamp": 1771771836654
+        },
+        {
+          "message": "Hiro melakukan jelajah.",
+          "timestamp": 1771771840915
+        },
+        {
+          "message": "Hiro melakukan berburu Serigala",
+          "timestamp": 1771771848553
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Beruang",
+          "timestamp": 1771773557007
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1771773562522
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1771773565552
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Tambang Batu",
+          "timestamp": 1771773568538
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1771773571704
+        },
+        {
+          "message": "Fn Aki 17 melakukan nebang.",
+          "timestamp": 1771778117342
+        },
+        {
+          "message": "Fn Aki 17 melakukan nambang di Hutan",
+          "timestamp": 1771778121789
+        },
+        {
+          "message": "Fn Aki 17 melakukan jelajah.",
+          "timestamp": 1771778124002
+        },
+        {
+          "message": "Fn Aki 17 menyelesaikan dungeon.",
+          "timestamp": 1771778128273
+        },
+        {
+          "message": "Fn Aki 17 melakukan berburu Pohon Apel",
+          "timestamp": 1771778131341
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1771787935924
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Pohon Apel",
+          "timestamp": 1771788199743
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1771788202544
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1771788206547
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1771788209453
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772559019328
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772563833333
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Pohon Apel",
+          "timestamp": 1772564003134
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1772564005906
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1772564009616
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1772564014165
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1772571727232
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Serigala",
+          "timestamp": 1772571729964
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1772571743730
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1772571746859
+        },
+        {
+          "message": "RyoValhalla meng-upgrade attack clan.",
+          "timestamp": 1772571788972
+        },
+        {
+          "message": "Hiro mutusin aliansi sama clan *Demonic Sword*.",
+          "timestamp": 1772571791956
+        },
+        {
+          "message": "RyoValhalla meng-upgrade defense clan.",
+          "timestamp": 1772571792665
+        },
+        {
+          "message": "Hiro menyelesaikan dungeon.",
+          "timestamp": 1772571817446
+        },
+        {
+          "message": "Hiro melakukan jelajah.",
+          "timestamp": 1772571820328
+        },
+        {
+          "message": "Hiro melakukan nambang di Hutan",
+          "timestamp": 1772571824698
+        },
+        {
+          "message": "Hiro melakukan nebang.",
+          "timestamp": 1772571829047
+        },
+        {
+          "message": "RyoValhalla beli 750 rock seharga Cp. 3750",
+          "timestamp": 1772571830847
+        },
+        {
+          "message": "RyoValhalla meng-upgrade attack clan.",
+          "timestamp": 1772571833949
+        },
+        {
+          "message": "Hiro melakukan berburu Rusa",
+          "timestamp": 1772571835831
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772571836590
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772624736655
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1772624768042
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1772624770287
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772686988134
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Babi",
+          "timestamp": 1772687026668
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1772687031222
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1772687037917
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1772687040857
+        },
+        {
+          "message": "kiru melakukan jelajah.",
+          "timestamp": 1772689677214
+        },
+        {
+          "message": "kiru menyelesaikan dungeon.",
+          "timestamp": 1772689678812
+        },
+        {
+          "message": "kiru melakukan nebang.",
+          "timestamp": 1772689681120
+        },
+        {
+          "message": "kiru melakukan nambang di Hutan",
+          "timestamp": 1772689685840
+        },
+        {
+          "message": "kiru melakukan berburu Rusa",
+          "timestamp": 1772689688254
+        },
+        {
+          "message": "Hiro menyelesaikan dungeon.",
+          "timestamp": 1772702114145
+        },
+        {
+          "message": "Hiro melakukan jelajah.",
+          "timestamp": 1772702117743
+        },
+        {
+          "message": "Hiro melakukan nebang.",
+          "timestamp": 1772702122526
+        },
+        {
+          "message": "Hiro melakukan nambang di Hutan",
+          "timestamp": 1772702125638
+        },
+        {
+          "message": "Hiro melakukan berburu Rusa",
+          "timestamp": 1772702132533
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772703953102
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1772703990273
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Serigala",
+          "timestamp": 1772703994755
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1772703998734
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Tambang Batu",
+          "timestamp": 1772704001745
+        },
+        {
+          "message": "kiru melakukan jelajah.",
+          "timestamp": 1772714141348
+        },
+        {
+          "message": "kiru menyelesaikan dungeon.",
+          "timestamp": 1772714144192
+        },
+        {
+          "message": "kiru melakukan nebang.",
+          "timestamp": 1772714146912
+        },
+        {
+          "message": "kiru melakukan nambang di Hutan",
+          "timestamp": 1772714149613
+        },
+        {
+          "message": "kiru melakukan berburu Kelinci",
+          "timestamp": 1772714152047
+        },
+        {
+          "message": "kiru melakukan jelajah.",
+          "timestamp": 1772864649781
+        },
+        {
+          "message": "kiru menyelesaikan dungeon.",
+          "timestamp": 1772864651949
+        },
+        {
+          "message": "kiru melakukan nebang.",
+          "timestamp": 1772864654104
+        },
+        {
+          "message": "kiru melakukan nambang di Tambang Batu",
+          "timestamp": 1772864655941
+        },
+        {
+          "message": "kiru melakukan berburu Rusa",
+          "timestamp": 1772864657692
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1772965458052
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1775638226665
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1776183403528
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Kelinci",
+          "timestamp": 1776183435276
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1776183440337
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1776183443161
+        },
+        {
+          "message": "RyoValhalla keluar dari clan.",
+          "timestamp": 1776205095802
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 1072,
+      "profile": "https://files.catbox.moe/f53wrd.jpg",
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [
+        "3dk7tz"
+      ],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 1771745547904,
+      "campLevel": 10,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldownsV2": {
+        "6288297471449@s.whatsapp.net": 1772702122524,
+        "6289601963842@s.whatsapp.net": 1771778117340,
+        "6289523936604@s.whatsapp.net": 1772864654102,
+        "6283129206978@s.whatsapp.net": 1776183403524
+      },
+      "memberCooldowns": {
+        "6288297471449@s.whatsapp.net": 1772702117741,
+        "6289601963842@s.whatsapp.net": 1771778124000,
+        "6289523936604@s.whatsapp.net": 1772864649776,
+        "6283129206978@s.whatsapp.net": 1776183440334
+      },
+      "isInWar": false,
+      "lastWar": 1772572099099,
+      "dungeonCooldown": {
+        "6288297471449@s.whatsapp.net": {
+          "lastCompleted": 1772702114140
+        },
+        "6289601963842@s.whatsapp.net": {
+          "lastCompleted": 1771778128270
+        },
+        "6289523936604@s.whatsapp.net": {
+          "lastCompleted": 1772864651946
+        },
+        "6283129206978@s.whatsapp.net": {
+          "lastCompleted": 1772703990270
+        }
+      },
+      "profileMessage": ".clan setprofile"
+    },
+    "2m54zx": {
+      "id": "2m54zx",
+      "name": "Demonic Sword",
+      "owner": "6285827803180@s.whatsapp.net",
+      "members": [
+        "6285827803180@s.whatsapp.net",
+        "62881010133340@s.whatsapp.net",
+        "6281280407015@s.whatsapp.net",
+        "6287841962869@s.whatsapp.net",
+        "6285822028912@s.whatsapp.net",
+        "6285785849683@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 171,
+        "iron": 197,
+        "diamond": 151,
+        "rock": 131,
+        "coal": 125,
+        "string": 469,
+        "apple": 22,
+        "berry": 36,
+        "meat": 14,
+        "bone": 8,
+        "feather": 0,
+        "skin": 0,
+        "fang": 23,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 3,
+      "attackLevel": 3,
+      "exp": 3117,
+      "level": 11,
+      "aegis": 50,
+      "basics": 75,
+      "activityLog": [
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1771758592655
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1771758596120
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1771758599659
+        },
+        {
+          "message": "Jonathan melakukan berburu Rusa",
+          "timestamp": 1771758602562
+        },
+        {
+          "message": "Jonathan melakukan nambang di Tambang Batu",
+          "timestamp": 1771758605171
+        },
+        {
+          "message": "Mark menyelesaikan dungeon.",
+          "timestamp": 1771758624347
+        },
+        {
+          "message": "Mark melakukan nebang.",
+          "timestamp": 1771758627165
+        },
+        {
+          "message": "Mark melakukan jelajah.",
+          "timestamp": 1771758629838
+        },
+        {
+          "message": "Mark melakukan berburu Rusa",
+          "timestamp": 1771758632486
+        },
+        {
+          "message": "Mark melakukan nambang di Hutan",
+          "timestamp": 1771758635247
+        },
+        {
+          "message": "Demonic Servant menyelesaikan dungeon.",
+          "timestamp": 1771758649296
+        },
+        {
+          "message": "Demonic Servant melakukan nebang.",
+          "timestamp": 1771758653791
+        },
+        {
+          "message": "Demonic Servant melakukan jelajah.",
+          "timestamp": 1771758657694
+        },
+        {
+          "message": "Demonic Servant melakukan berburu Kelinci",
+          "timestamp": 1771758660398
+        },
+        {
+          "message": "Demonic Servant melakukan nambang di Hutan",
+          "timestamp": 1771758663115
+        },
+        {
+          "message": "Jonathan meng-upgrade camp clan.",
+          "timestamp": 1771758675728
+        },
+        {
+          "message": "Jonathan beli 500 rock seharga Cp. 2500",
+          "timestamp": 1771758689399
+        },
+        {
+          "message": "Jonathan meng-upgrade attack clan.",
+          "timestamp": 1771758692758
+        },
+        {
+          "message": "Jonathan beli 500 rock seharga Cp. 2500",
+          "timestamp": 1771758703139
+        },
+        {
+          "message": "Jonathan meng-upgrade defense clan.",
+          "timestamp": 1771758707704
+        },
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1771761364447
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1771761367232
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1771761370288
+        },
+        {
+          "message": "Mark menyelesaikan dungeon.",
+          "timestamp": 1771761394522
+        },
+        {
+          "message": "Mark melakukan nebang.",
+          "timestamp": 1771761397729
+        },
+        {
+          "message": "Mark melakukan jelajah.",
+          "timestamp": 1771761400316
+        },
+        {
+          "message": "Demonic Servant menyelesaikan dungeon.",
+          "timestamp": 1771761586331
+        },
+        {
+          "message": "Demonic Servant melakukan nebang.",
+          "timestamp": 1771761590808
+        },
+        {
+          "message": "Demonic Servant melakukan jelajah.",
+          "timestamp": 1771761594619
+        },
+        {
+          "message": "Anss melakukan nebang.",
+          "timestamp": 1771763205681
+        },
+        {
+          "message": "Anss melakukan jelajah.",
+          "timestamp": 1771763211479
+        },
+        {
+          "message": "Anss melakukan berburu Ayam",
+          "timestamp": 1771763214338
+        },
+        {
+          "message": "Anss melakukan nambang di Hutan",
+          "timestamp": 1771763229678
+        },
+        {
+          "message": "Anss menyelesaikan dungeon.",
+          "timestamp": 1771763233503
+        },
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1771763264331
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1771763268283
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1771763271670
+        },
+        {
+          "message": "Jonathan melakukan berburu Serigala",
+          "timestamp": 1771763275645
+        },
+        {
+          "message": "Jonathan melakukan nambang di Hutan",
+          "timestamp": 1771763278811
+        },
+        {
+          "message": "Mark menyelesaikan dungeon.",
+          "timestamp": 1771763296980
+        },
+        {
+          "message": "Mark melakukan nebang.",
+          "timestamp": 1771763299707
+        },
+        {
+          "message": "Mark melakukan jelajah.",
+          "timestamp": 1771763303707
+        },
+        {
+          "message": "Mark melakukan berburu Kelinci",
+          "timestamp": 1771763306192
+        },
+        {
+          "message": "Mark melakukan nambang di Hutan",
+          "timestamp": 1771763309116
+        },
+        {
+          "message": "Demonic Servant menyelesaikan dungeon.",
+          "timestamp": 1771763333763
+        },
+        {
+          "message": "Demonic Servant melakukan nebang.",
+          "timestamp": 1771763337258
+        },
+        {
+          "message": "Demonic Servant melakukan jelajah.",
+          "timestamp": 1771763340458
+        },
+        {
+          "message": "Demonic Servant melakukan berburu Ayam",
+          "timestamp": 1771763346666
+        },
+        {
+          "message": "Demonic Servant melakukan nambang di Hutan",
+          "timestamp": 1771763349157
+        },
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1771768288650
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1771768293030
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1771768295651
+        },
+        {
+          "message": "Jonathan melakukan berburu Serigala",
+          "timestamp": 1771768298129
+        },
+        {
+          "message": "Jonathan melakukan nambang di Hutan",
+          "timestamp": 1771768300524
+        },
+        {
+          "message": "Mark menyelesaikan dungeon.",
+          "timestamp": 1771768313203
+        },
+        {
+          "message": "Mark melakukan nebang.",
+          "timestamp": 1771768315795
+        },
+        {
+          "message": "Mark melakukan jelajah.",
+          "timestamp": 1771768318661
+        },
+        {
+          "message": "Mark melakukan berburu Serigala",
+          "timestamp": 1771768321042
+        },
+        {
+          "message": "Mark melakukan nambang di Hutan",
+          "timestamp": 1771768323810
+        },
+        {
+          "message": "Demonic Servant menyelesaikan dungeon.",
+          "timestamp": 1771768344338
+        },
+        {
+          "message": "Demonic Servant melakukan nebang.",
+          "timestamp": 1771768347063
+        },
+        {
+          "message": "Demonic Servant melakukan jelajah.",
+          "timestamp": 1771768350995
+        },
+        {
+          "message": "Demonic Servant melakukan berburu Serigala",
+          "timestamp": 1771768353608
+        },
+        {
+          "message": "Demonic Servant melakukan nambang di Hutan",
+          "timestamp": 1771768356503
+        },
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1771774295748
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1771774300929
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1771774303456
+        },
+        {
+          "message": "Jonathan melakukan berburu Rusa",
+          "timestamp": 1771774306111
+        },
+        {
+          "message": "Jonathan melakukan nambang di Hutan",
+          "timestamp": 1771774309071
+        },
+        {
+          "message": "Mark menyelesaikan dungeon.",
+          "timestamp": 1771774345728
+        },
+        {
+          "message": "Mark melakukan nebang.",
+          "timestamp": 1771774348804
+        },
+        {
+          "message": "Mark melakukan jelajah.",
+          "timestamp": 1771774351291
+        },
+        {
+          "message": "Mark melakukan berburu Kelinci",
+          "timestamp": 1771774354297
+        },
+        {
+          "message": "Mark melakukan nambang di Hutan",
+          "timestamp": 1771774356786
+        },
+        {
+          "message": "Demonic Servant menyelesaikan dungeon.",
+          "timestamp": 1771774374043
+        },
+        {
+          "message": "Demonic Servant melakukan nebang.",
+          "timestamp": 1771774376437
+        },
+        {
+          "message": "Demonic Servant melakukan jelajah.",
+          "timestamp": 1771774380089
+        },
+        {
+          "message": "Demonic Servant melakukan berburu Serigala",
+          "timestamp": 1771774382751
+        },
+        {
+          "message": "Demonic Servant melakukan nambang di Hutan",
+          "timestamp": 1771774385795
+        },
+        {
+          "message": "Clan *Amidonia* mutusin aliansi.",
+          "timestamp": 1772571791958
+        },
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1774890132886
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1774890135286
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1774890137439
+        },
+        {
+          "message": "Jonathan melakukan berburu Serigala",
+          "timestamp": 1774890140072
+        },
+        {
+          "message": "Jonathan melakukan nambang di Hutan",
+          "timestamp": 1774890147343
+        },
+        {
+          "message": "Jonathan melakukan nebang.",
+          "timestamp": 1776207051453
+        },
+        {
+          "message": "Jonathan melakukan jelajah.",
+          "timestamp": 1776207055303
+        },
+        {
+          "message": "Jonathan melakukan berburu Serigala",
+          "timestamp": 1776207058007
+        },
+        {
+          "message": "Jonathan melakukan nambang di Hutan",
+          "timestamp": 1776207060802
+        },
+        {
+          "message": "Jonathan meng-upgrade defense clan.",
+          "timestamp": 1776207070573
+        },
+        {
+          "message": "Jonathan meng-upgrade attack clan.",
+          "timestamp": 1776207075820
+        },
+        {
+          "message": "Jonathan meng-upgrade defense clan.",
+          "timestamp": 1776207081379
+        },
+        {
+          "message": "Mark melakukan nebang.",
+          "timestamp": 1776207123559
+        },
+        {
+          "message": "Mark melakukan jelajah.",
+          "timestamp": 1776207128713
+        },
+        {
+          "message": "Mark melakukan berburu Pohon Apel",
+          "timestamp": 1776207131144
+        },
+        {
+          "message": "Mark melakukan nambang di Hutan",
+          "timestamp": 1776207133964
+        },
+        {
+          "message": "Mark beli 5 rock seharga Cp. 25",
+          "timestamp": 1776207167450
+        },
+        {
+          "message": "Mark meng-upgrade attack clan.",
+          "timestamp": 1776207172371
+        },
+        {
+          "message": "Mark menyelesaikan dungeon.",
+          "timestamp": 1776207174983
+        },
+        {
+          "message": "Jonathan menyelesaikan dungeon.",
+          "timestamp": 1776207188443
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 3423,
+      "profile": "https://files.catbox.moe/oak7dg.jpg",
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [
+        "bv6h9s"
+      ],
+      "pendingAlliances": [],
+      "pendingMembers": [
+        "6283129206978@s.whatsapp.net"
+      ],
+      "isRaiding": true,
+      "raidPeriod": 0,
+      "lastRaid": 1771754835966,
+      "campLevel": 21,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldowns": {
+        "6285827803180@s.whatsapp.net": 1776207055300,
+        "62881010133340@s.whatsapp.net": 1771571039068,
+        "6283129206978@s.whatsapp.net": 1771444170388,
+        "6281280407015@s.whatsapp.net": 1771763211477,
+        "6287841962869@s.whatsapp.net": 1776207128710,
+        "6285822028912@s.whatsapp.net": 1771774380087,
+        "6285141141836@s.whatsapp.net": 1771565445368,
+        "6285785849683@s.whatsapp.net": 1771602754344
+      },
+      "memberCooldownsV2": {
+        "6285827803180@s.whatsapp.net": 1776207051450,
+        "6283129206978@s.whatsapp.net": 1771425433876,
+        "6281280407015@s.whatsapp.net": 1771763205678,
+        "6285141141836@s.whatsapp.net": 1771565325549,
+        "6287841962869@s.whatsapp.net": 1776207123556,
+        "6285822028912@s.whatsapp.net": 1771774376435,
+        "6285785849683@s.whatsapp.net": 1771602717859,
+        "62881010133340@s.whatsapp.net": 1771571126827
+      },
+      "isInWar": false,
+      "lastWar": 1776265168234,
+      "dungeonCooldown": {
+        "6285827803180@s.whatsapp.net": {
+          "lastCompleted": 1776207188441
+        },
+        "6283129206978@s.whatsapp.net": {
+          "lastCompleted": 1771444166870
+        },
+        "6281280407015@s.whatsapp.net": {
+          "lastCompleted": 1771763233501
+        },
+        "6285141141836@s.whatsapp.net": {
+          "lastCompleted": 1771565348962
+        },
+        "6287841962869@s.whatsapp.net": {
+          "lastCompleted": 1776207174981
+        },
+        "6285822028912@s.whatsapp.net": {
+          "lastCompleted": 1771774374040
+        },
+        "6285785849683@s.whatsapp.net": {
+          "lastCompleted": 1771602778929
+        }
+      },
+      "profileMessage": ".clan setprofile",
+      "raidMonster": {
+        "name": "Chaos Overlord",
+        "hp": 100000,
+        "attack": 8000,
+        "defense": 5000,
+        "difficulty": 5,
+        "cpMin": 200,
+        "cpMax": 250,
+        "expMin": 100,
+        "expMax": 120
+      },
+      "raidAllies": {},
+      "raidApprovals": {
+        "2m54zx": true
+      }
+    },
+    "8wgei9": {
+      "id": "8wgei9",
+      "name": "Heavenly Sword",
+      "owner": "6281313961601@s.whatsapp.net",
+      "members": [
+        "6281313961601@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 208,
+      "level": 2,
+      "aegis": 50,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Heavenly Sword\" dibuat sama Keiko.",
+          "timestamp": 1771671070432
+        },
+        {
+          "message": "Keiko melakukan nebang.",
+          "timestamp": 1771671129801
+        },
+        {
+          "message": "Keiko melakukan jelajah.",
+          "timestamp": 1771671136765
+        },
+        {
+          "message": "Keiko melakukan berburu Rusa",
+          "timestamp": 1771671144699
+        },
+        {
+          "message": "Keiko melakukan nambang di Hutan",
+          "timestamp": 1771671149574
+        },
+        {
+          "message": "Keiko meng-upgrade defense clan.",
+          "timestamp": 1771671805015
+        },
+        {
+          "message": "Keiko beli 3 diamond seharga Cp. 60",
+          "timestamp": 1771672402483
+        },
+        {
+          "message": "Keiko meng-upgrade defense clan.",
+          "timestamp": 1771672416144
+        },
+        {
+          "message": "Keiko melakukan nebang.",
+          "timestamp": 1771675335079
+        },
+        {
+          "message": "Keiko melakukan nambang di Hutan",
+          "timestamp": 1771675342334
+        },
+        {
+          "message": "Keiko melakukan berburu Beruang",
+          "timestamp": 1771675353792
+        },
+        {
+          "message": "Keiko melakukan jelajah.",
+          "timestamp": 1771675364265
+        },
+        {
+          "message": "Keiko melakukan nebang.",
+          "timestamp": 1771682629872
+        },
+        {
+          "message": "Keiko melakukan nambang di Hutan",
+          "timestamp": 1771682639711
+        },
+        {
+          "message": "Keiko melakukan berburu Beruang",
+          "timestamp": 1771682669053
+        },
+        {
+          "message": "Keiko melakukan nebang.",
+          "timestamp": 1771708995935
+        },
+        {
+          "message": "Keiko melakukan jelajah.",
+          "timestamp": 1771709000524
+        },
+        {
+          "message": "Keiko melakukan berburu Beruang",
+          "timestamp": 1771709005875
+        },
+        {
+          "message": "Keiko melakukan nambang di Hutan",
+          "timestamp": 1771709010529
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldownsV2": {
+        "6281313961601@s.whatsapp.net": 1771708995932
+      },
+      "memberCooldowns": {
+        "6281313961601@s.whatsapp.net": 1771709000521
+      },
+      "isInWar": false,
+      "lastWar": 1771675697016
+    },
+    "10dxez": {
+      "id": "10dxez",
+      "name": "SAIZHUAN EMPIRE",
+      "owner": "6283129206978@s.whatsapp.net",
+      "members": [
+        "6283129206978@s.whatsapp.net",
+        "6283866296374@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 52,
+        "iron": 56,
+        "diamond": 40,
+        "rock": 96,
+        "coal": 50,
+        "string": 149,
+        "apple": 0,
+        "berry": 0,
+        "meat": 114,
+        "bone": 82,
+        "feather": 0,
+        "skin": 14,
+        "fang": 47,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 3,
+      "attackLevel": 4,
+      "exp": 404,
+      "level": 2,
+      "aegis": 0,
+      "basics": 100,
+      "activityLog": [
+        {
+          "message": "Clan \"SAIZHUAN EMPIRE\" dibuat sama RyoValhalla.",
+          "timestamp": 1776205125517
+        },
+        {
+          "message": "RyoValhalla mengubah privasi clan menjadi ON (Private)",
+          "timestamp": 1776205139223
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1776205150890
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Serigala",
+          "timestamp": 1776205153925
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1776205156844
+        },
+        {
+          "message": "RyoValhalla meng-upgrade defense clan.",
+          "timestamp": 1776205181575
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1776206583970
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1776206589349
+        },
+        {
+          "message": "RyoValhalla beli 8 rock seharga Cp. 40",
+          "timestamp": 1776207076731
+        },
+        {
+          "message": "RyoValhalla beli 2 diamond seharga Cp. 40",
+          "timestamp": 1776207087120
+        },
+        {
+          "message": "RyoValhalla meng-upgrade attack clan.",
+          "timestamp": 1776207094817
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1776236695707
+        },
+        {
+          "message": "RyoValhalla mengubah privasi clan menjadi OFF (Public)",
+          "timestamp": 1776238000717
+        },
+        {
+          "message": "Marmar bergabung ke clan.",
+          "timestamp": 1776238028145
+        },
+        {
+          "message": "RyoValhalla mengubah privasi clan menjadi ON (Private)",
+          "timestamp": 1776238037855
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Serigala",
+          "timestamp": 1776238042326
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1776238046558
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1776238052539
+        },
+        {
+          "message": "RyoValhalla melakukan nebang.",
+          "timestamp": 1776264726691
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Rusa",
+          "timestamp": 1776264770737
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1776264778855
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Hutan",
+          "timestamp": 1776264781769
+        },
+        {
+          "message": "RyoValhalla beli 2 rock seharga Cp. 10",
+          "timestamp": 1776264802195
+        },
+        {
+          "message": "RyoValhalla beli 30 rock seharga Cp. 150",
+          "timestamp": 1776264815894
+        },
+        {
+          "message": "RyoValhalla beli 2 diamond seharga Cp. 40",
+          "timestamp": 1776264825611
+        },
+        {
+          "message": "RyoValhalla meng-upgrade defense clan.",
+          "timestamp": 1776264833408
+        },
+        {
+          "message": "RyoValhalla beli 21 iron seharga Cp. 210",
+          "timestamp": 1776264904736
+        },
+        {
+          "message": "RyoValhalla beli 20 diamond seharga Cp. 400",
+          "timestamp": 1776264915174
+        },
+        {
+          "message": "RyoValhalla beli 40 rock seharga Cp. 200",
+          "timestamp": 1776264927551
+        },
+        {
+          "message": "RyoValhalla beli 20 coal seharga Cp. 100",
+          "timestamp": 1776264946266
+        },
+        {
+          "message": "RyoValhalla meng-upgrade attack clan.",
+          "timestamp": 1776264950961
+        },
+        {
+          "message": "RyoValhalla beli 50 iron seharga Cp. 500",
+          "timestamp": 1776265001205
+        },
+        {
+          "message": "RyoValhalla beli 32 diamond seharga Cp. 640",
+          "timestamp": 1776265015846
+        },
+        {
+          "message": "RyoValhalla beli 80 rock seharga Cp. 400",
+          "timestamp": 1776265026569
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1776265060692
+        },
+        {
+          "message": "RyoValhalla beli 8 coal seharga Cp. 40",
+          "timestamp": 1776265090100
+        },
+        {
+          "message": "RyoValhalla meng-upgrade attack clan.",
+          "timestamp": 1776265095963
+        },
+        {
+          "message": "RyoValhalla melakukan berburu Kelinci",
+          "timestamp": 1776315601432
+        },
+        {
+          "message": "RyoValhalla menyelesaikan dungeon.",
+          "timestamp": 1776315604228
+        },
+        {
+          "message": "RyoValhalla melakukan jelajah.",
+          "timestamp": 1776315607169
+        },
+        {
+          "message": "RyoValhalla melakukan nambang di Tambang Batu",
+          "timestamp": 1776315609589
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 745,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "campLevel": 1,
+      "troops": {},
+      "troopRecovery": {},
+      "season": 5,
+      "seasonStart": 1775347200000,
+      "memberCooldowns": {
+        "6283129206978@s.whatsapp.net": 1776315607167
+      },
+      "memberCooldownsV2": {
+        "6283129206978@s.whatsapp.net": 1776264726689
+      },
+      "isInWar": false,
+      "lastWar": 1776265168234,
+      "dungeonCooldown": {
+        "6283129206978@s.whatsapp.net": {
+          "lastCompleted": 1776315604226
+        }
+      }
+    }
+  },
+  "members": {
+    "6283857182374@s.whatsapp.net": "VIP777",
+    "6281238442691@s.whatsapp.net": "z88885",
+    "6287884674467@s.whatsapp.net": "1d52wp",
+    "6288226780689@s.whatsapp.net": "1d52wp",
+    "6285198632910@s.whatsapp.net": "1d52wp",
+    "6282179794354@s.whatsapp.net": "1d52wp",
+    "62882001438349@s.whatsapp.net": "1d52wp",
+    "628892722966@s.whatsapp.net": "blruba",
+    "6283894845232@s.whatsapp.net": "rpt7sb",
+    "6289507732991@s.whatsapp.net": "VIP777",
+    "62881025370068@s.whatsapp.net": "oloy8v",
+    "6285792799010@s.whatsapp.net": "ovu1ss",
+    "6289618707783@s.whatsapp.net": "rpt7sb",
+    "6283113131642@s.whatsapp.net": "VIP777",
+    "6283895995318@s.whatsapp.net": "e9ate4",
+    "6289612888313@s.whatsapp.net": "2bfk2z",
+    "62881026002400@s.whatsapp.net": "wd0g21",
+    "62882006341961@s.whatsapp.net": "VIP777",
+    "6283137181875@s.whatsapp.net": "VIP777",
+    "62882003808939@s.whatsapp.net": "VIP777",
+    "6285794161086@s.whatsapp.net": "bn03qg",
+    "6281371881236@s.whatsapp.net": "2q94v3",
+    "6282348181097@s.whatsapp.net": "n4113x",
+    "62882000518598@s.whatsapp.net": "1d52wp",
+    "6282163504530@s.whatsapp.net": "g3d7j1",
+    "62882001942761@s.whatsapp.net": "g3d7j1",
+    "62895338282900@s.whatsapp.net": "ppbccc",
+    "6282118310113@s.whatsapp.net": "g3d7j1",
+    "6285951643958@s.whatsapp.net": "g3d7j1",
+    "6283849737975@s.whatsapp.net": "qu2h9k",
+    "6283846731706@s.whatsapp.net": "m0pqf5",
+    "6282261285531@s.whatsapp.net": "1d52wp",
+    "6281532692631@s.whatsapp.net": "1d52wp",
+    "6281399172380@s.whatsapp.net": "g3d7j1",
+    "6282137546135@s.whatsapp.net": "g3d7j1",
+    "628886271534@s.whatsapp.net": "g3d7j1",
+    "6283892344223@s.whatsapp.net": "ppbccc",
+    "6289654626148@s.whatsapp.net": "bb59kg",
+    "6289505844021@s.whatsapp.net": "bb59kg",
+    "6282340959675@s.whatsapp.net": "bxajmj",
+    "62882003886036@s.whatsapp.net": "bxajmj",
+    "6281353883431@s.whatsapp.net": "ppbccc",
+    "62895342562424@s.whatsapp.net": "bxajmj",
+    "62881010933717@s.whatsapp.net": "ppbccc",
+    "6283108326954@s.whatsapp.net": "ppbccc",
+    "6282291044175@s.whatsapp.net": "zjgu5w",
+    "6285124986926@s.whatsapp.net": "h7ni99",
+    "6287842741324@s.whatsapp.net": "bxajmj",
+    "6283139011449@s.whatsapp.net": "bxajmj",
+    "62895417892820@s.whatsapp.net": "gegsr8",
+    "6285874167868@s.whatsapp.net": "ye3rur",
+    "6285697858815@s.whatsapp.net": "ye3rur",
+    "6283126491100@s.whatsapp.net": "g3d7j1",
+    "6283844393789@s.whatsapp.net": "g3d7j1",
+    "6288704099621@s.whatsapp.net": "g3d7j1",
+    "6289529283160@s.whatsapp.net": "ye3rur",
+    "6288809961646@s.whatsapp.net": "ye3rur",
+    "62887437423195@s.whatsapp.net": "ye3rur",
+    "6287742365065@s.whatsapp.net": "ppbccc",
+    "6289606232233@s.whatsapp.net": "ppbccc",
+    "6285172175353@s.whatsapp.net": "ppbccc",
+    "6288289507601@s.whatsapp.net": "zjgu5w",
+    "6288297471449@s.whatsapp.net": "3dk7tz",
+    "6285827803180@s.whatsapp.net": "2m54zx",
+    "6289601963842@s.whatsapp.net": "3dk7tz",
+    "62881010133340@s.whatsapp.net": "2m54zx",
+    "6281280407015@s.whatsapp.net": "2m54zx",
+    "6289523936604@s.whatsapp.net": "3dk7tz",
+    "6287841962869@s.whatsapp.net": "2m54zx",
+    "6285822028912@s.whatsapp.net": "2m54zx",
+    "6285785849683@s.whatsapp.net": "2m54zx",
+    "6285141141836@s.whatsapp.net": "3dk7tz",
+    "6285813185700@s.whatsapp.net": "3dk7tz",
+    "6281313961601@s.whatsapp.net": "8wgei9",
+    "6283896745149@s.whatsapp.net": "n4113x",
+    "6283129206978@s.whatsapp.net": "10dxez",
+    "6283866296374@s.whatsapp.net": "10dxez"
+  }
+}
